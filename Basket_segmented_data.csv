@@ -1,0 +1,3001 @@
+customer_number,Recency,Frequency,Monetary,label
+14,1,56,675.72,Potential Loyal Customers
+45,1,33,585.73,Potential Loyal Customers
+52,2,59,222.18,Potential Loyal Customers
+61,3,37,547.87,Potential Loyal Customers
+63,7,48,293.34,Potential Loyal Customers
+67,2,45,1584.18,Champions
+68,2,18,225.41,Potential Loyal Customers
+71,3,42,1233.78,Champions
+77,0,20,355.16,Potential Loyal Customers
+81,4,37,729.04,Potential Loyal Customers
+83,6,53,518.58,Potential Loyal Customers
+85,1,67,600.74,Potential Loyal Customers
+108,2,46,554.54,Potential Loyal Customers
+110,93,35,177.29,Need Attention
+111,0,40,530.64,Potential Loyal Customers
+117,0,48,440.71,Potential Loyal Customers
+119,1,79,855.23,Loyal Customers
+123,7,43,599.29,Potential Loyal Customers
+124,0,33,566.97,Potential Loyal Customers
+133,4,54,700.34,Potential Loyal Customers
+136,18,14,729.55,Potential Loyal Customers
+140,1,39,303.53,Potential Loyal Customers
+144,3,22,261.16,Potential Loyal Customers
+149,52,11,164.66,Promising Customers
+153,1,47,745.69,Potential Loyal Customers
+156,0,95,967.75,Loyal Customers
+157,2,55,1857.65,Champions
+166,161,19,267.96,Need Attention
+170,0,63,829.75,Potential Loyal Customers
+176,2,46,202.67,Potential Loyal Customers
+182,0,102,389.09,Loyal Customers
+186,0,159,569.31,Loyal Customers
+187,136,31,517.63,Need Attention
+191,12,55,475.18,Potential Loyal Customers
+198,4,39,446.97,Potential Loyal Customers
+201,0,80,666.04,Loyal Customers
+202,0,41,380.68,Potential Loyal Customers
+206,1,115,1075.19,Loyal Customers
+212,0,81,419.77,Loyal Customers
+215,7,4,401.93,Potential Loyal Customers
+218,0,123,695.33,Loyal Customers
+221,3,32,572.35,Potential Loyal Customers
+230,2,9,148.25,Potential Loyal Customers
+231,1,157,961.42,Loyal Customers
+232,0,111,1045.33,Loyal Customers
+236,4,75,650.07,Loyal Customers
+244,6,63,1338.67,Champions
+247,0,27,1199.87,Potential Loyal Customers
+256,1,50,804.6,Potential Loyal Customers
+257,14,41,634.38,Potential Loyal Customers
+258,8,49,380.57,Potential Loyal Customers
+263,0,258,1411.27,At Risk
+269,0,18,690.51,Potential Loyal Customers
+275,30,8,162.03,Promising Customers
+276,5,79,667.79,Loyal Customers
+277,0,56,1014.82,Potential Loyal Customers
+280,0,54,344.85,Potential Loyal Customers
+281,0,128,1282.69,Loyal Customers
+283,2,114,1080.41,Loyal Customers
+305,97,30,233.44,Need Attention
+308,0,45,533.12,Potential Loyal Customers
+309,1,51,377.71,Potential Loyal Customers
+312,0,109,752.32,Loyal Customers
+320,3,50,415.49,Potential Loyal Customers
+324,2,26,200.37,Potential Loyal Customers
+328,3,8,542.51,Potential Loyal Customers
+341,0,86,675.36,Loyal Customers
+342,0,38,461.5,Potential Loyal Customers
+349,0,64,649.97,Potential Loyal Customers
+350,7,30,546.06,Potential Loyal Customers
+352,2,57,505.68,Potential Loyal Customers
+356,1,51,236.48,Potential Loyal Customers
+357,0,68,1996.51,Champions
+359,9,41,780.02,Potential Loyal Customers
+362,1,76,591.95,Loyal Customers
+367,0,93,951.8,Loyal Customers
+368,2,56,736.22,Potential Loyal Customers
+372,4,53,757.52,Potential Loyal Customers
+385,1,52,894.2,Potential Loyal Customers
+386,12,169,630.23,Loyal Customers
+395,0,49,435.98,Potential Loyal Customers
+398,3,37,499.53,Potential Loyal Customers
+401,1,36,342.93,Potential Loyal Customers
+404,16,12,1403.38,Champions
+409,10,43,514,Potential Loyal Customers
+412,6,45,351.35,Potential Loyal Customers
+419,3,22,713.32,Potential Loyal Customers
+426,1,30,741.36,Potential Loyal Customers
+427,2,52,932.52,Potential Loyal Customers
+433,0,56,608.27,Potential Loyal Customers
+434,0,12,164.3,Potential Loyal Customers
+445,1,80,1700.09,Champions
+447,13,19,277.6,Potential Loyal Customers
+459,1,18,357.73,Potential Loyal Customers
+474,3,34,403.05,Potential Loyal Customers
+475,0,31,791.57,Potential Loyal Customers
+496,1,57,468.8,Potential Loyal Customers
+498,0,79,944.52,Loyal Customers
+507,9,49,261.71,Potential Loyal Customers
+510,14,54,432.24,Potential Loyal Customers
+515,0,11,131.43,Potential Loyal Customers
+521,0,117,534.81,Loyal Customers
+523,55,24,377.89,Promising Customers
+535,1,118,929.65,Loyal Customers
+538,0,37,451.55,Potential Loyal Customers
+540,0,80,456.41,Loyal Customers
+541,144,11,161.56,Need Attention
+542,0,18,457.94,Potential Loyal Customers
+550,0,45,393.49,Potential Loyal Customers
+559,1,35,676.3,Potential Loyal Customers
+562,0,49,523.35,Potential Loyal Customers
+571,9,39,321.23,Potential Loyal Customers
+572,1,40,638.79,Potential Loyal Customers
+579,0,66,999.35,Loyal Customers
+584,4,68,869.18,Loyal Customers
+588,15,37,906.05,Potential Loyal Customers
+589,5,84,1731.58,Champions
+594,0,108,1258.26,Loyal Customers
+611,2,81,559.13,Loyal Customers
+616,1,72,660.92,Loyal Customers
+618,8,20,755.35,Potential Loyal Customers
+620,22,42,540.35,Potential Loyal Customers
+635,2,60,704.25,Potential Loyal Customers
+646,1,26,263.53,Potential Loyal Customers
+647,1,30,422.95,Potential Loyal Customers
+649,87,6,183.16,Need Attention
+652,2,17,370.01,Potential Loyal Customers
+655,3,62,857.38,Potential Loyal Customers
+657,1,139,897.3,Loyal Customers
+662,3,39,931.18,Potential Loyal Customers
+667,2,89,829.83,Loyal Customers
+669,1,36,561.42,Potential Loyal Customers
+674,2,26,352.74,Potential Loyal Customers
+687,1,55,342,Potential Loyal Customers
+697,0,69,875.45,Loyal Customers
+704,1,69,1203,Champions
+711,0,81,1335.38,Champions
+712,13,26,196.23,Potential Loyal Customers
+717,0,41,329.87,Potential Loyal Customers
+724,1,46,588.34,Potential Loyal Customers
+725,3,86,834.38,Loyal Customers
+732,8,58,461.64,Potential Loyal Customers
+734,1,73,772.77,Loyal Customers
+735,1,75,540.71,Loyal Customers
+737,0,42,1128.48,Potential Loyal Customers
+746,0,76,523.14,Loyal Customers
+752,0,100,680.61,Loyal Customers
+755,148,1,73.75,Need Attention
+759,10,7,214.95,Potential Loyal Customers
+770,0,42,397.04,Potential Loyal Customers
+777,6,6,105.36,Potential Loyal Customers
+786,0,122,451.54,Loyal Customers
+787,1,151,1232.69,Loyal Customers
+788,5,31,249.55,Potential Loyal Customers
+792,0,147,1267.05,Loyal Customers
+795,101,11,148.71,Need Attention
+808,2,74,412.31,Potential Loyal Customers
+825,2,14,284.43,Potential Loyal Customers
+827,0,59,412.21,Potential Loyal Customers
+828,7,80,762.72,Loyal Customers
+832,3,67,577.26,Potential Loyal Customers
+838,0,41,625.43,Potential Loyal Customers
+846,0,140,998.3,Loyal Customers
+848,3,34,522.05,Potential Loyal Customers
+850,85,27,240.01,Need Attention
+858,0,24,601.44,Potential Loyal Customers
+859,10,55,283.32,Potential Loyal Customers
+867,3,40,236.66,Potential Loyal Customers
+871,0,126,940.31,Loyal Customers
+872,1,41,637.97,Potential Loyal Customers
+896,6,91,401.89,Loyal Customers
+898,0,72,1007.53,Loyal Customers
+905,1,37,1535.3,Champions
+906,0,38,472.62,Potential Loyal Customers
+910,2,91,715.04,Loyal Customers
+912,1,21,592.45,Potential Loyal Customers
+914,3,69,753.79,Loyal Customers
+919,10,17,242,Potential Loyal Customers
+921,1,183,1342.48,At Risk
+925,91,11,81.76,Need Attention
+928,6,66,1074.51,Loyal Customers
+935,6,27,576.91,Potential Loyal Customers
+937,0,110,1155.45,Loyal Customers
+942,2,11,646.4,Potential Loyal Customers
+945,108,7,328.02,Need Attention
+946,1,111,1055.42,Loyal Customers
+951,0,51,338.9,Potential Loyal Customers
+953,0,26,457.6,Potential Loyal Customers
+972,11,13,183.61,Potential Loyal Customers
+974,1,34,843.44,Potential Loyal Customers
+977,6,41,1239.92,Champions
+1008,4,68,2365.36,Champions
+1015,8,5,132.48,Potential Loyal Customers
+1018,0,82,970.06,Loyal Customers
+1019,2,68,1407.43,Champions
+1024,104,15,151.19,Need Attention
+1030,1,30,181.34,Potential Loyal Customers
+1031,3,10,84.46,Potential Loyal Customers
+1037,1,88,511.63,Loyal Customers
+1043,0,48,769.18,Potential Loyal Customers
+1045,10,17,166.05,Potential Loyal Customers
+1046,1,116,1286.67,Loyal Customers
+1050,5,17,391.68,Potential Loyal Customers
+1060,14,40,668.68,Potential Loyal Customers
+1064,1,107,783.87,Loyal Customers
+1071,14,21,358.14,Potential Loyal Customers
+1073,55,76,848.79,Promising Customers
+1074,0,58,349.87,Potential Loyal Customers
+1075,25,58,271.2,Promising Customers
+1076,0,69,418.58,Potential Loyal Customers
+1078,46,26,215.26,Promising Customers
+1079,1,31,1730.24,Champions
+1081,0,195,403.79,Loyal Customers
+1083,0,33,647.31,Potential Loyal Customers
+1089,36,9,154.58,Promising Customers
+1096,2,90,582.47,Loyal Customers
+1101,6,14,588.01,Potential Loyal Customers
+1109,2,24,777.76,Potential Loyal Customers
+1113,6,37,662.78,Potential Loyal Customers
+1117,2,80,437.21,Loyal Customers
+1118,0,81,767.9,Loyal Customers
+1121,5,21,332.57,Potential Loyal Customers
+1122,1,123,1150.55,Loyal Customers
+1128,1,64,845.68,Loyal Customers
+1129,1,54,877.87,Potential Loyal Customers
+1143,1,33,520.02,Potential Loyal Customers
+1145,7,45,488.66,Potential Loyal Customers
+1147,0,32,439.69,Potential Loyal Customers
+1149,2,135,1333.99,Loyal Customers
+1152,7,28,1557.49,Champions
+1163,0,101,302.99,Loyal Customers
+1168,4,29,982.61,Potential Loyal Customers
+1172,2,39,881.68,Potential Loyal Customers
+1174,114,58,291.55,Need Attention
+1195,13,51,780.54,Potential Loyal Customers
+1201,0,67,976.1,Loyal Customers
+1206,0,164,870.15,Loyal Customers
+1212,8,60,547.99,Potential Loyal Customers
+1218,3,20,137,Potential Loyal Customers
+1222,4,54,486.79,Potential Loyal Customers
+1223,1,47,715.31,Potential Loyal Customers
+1224,21,25,151,Potential Loyal Customers
+1226,6,61,965.91,Loyal Customers
+1228,0,42,379.75,Potential Loyal Customers
+1233,6,61,360.19,Potential Loyal Customers
+1241,3,83,810.56,Loyal Customers
+1242,4,31,542.02,Potential Loyal Customers
+1250,0,53,384.13,Potential Loyal Customers
+1253,0,144,814.6,Loyal Customers
+1254,0,166,1568.6,At Risk
+1257,3,27,561.73,Potential Loyal Customers
+1265,0,42,429.02,Potential Loyal Customers
+1267,1,35,371.13,Potential Loyal Customers
+1268,0,64,584.18,Potential Loyal Customers
+1281,0,49,633.78,Potential Loyal Customers
+1284,4,22,205.14,Potential Loyal Customers
+1286,22,23,431.67,Potential Loyal Customers
+1292,11,218,946.48,At Risk
+1301,1,39,225.47,Potential Loyal Customers
+1308,8,25,448.26,Potential Loyal Customers
+1322,1,35,943.31,Potential Loyal Customers
+1325,10,20,441.8,Potential Loyal Customers
+1330,3,44,1855.28,Champions
+1340,3,36,479.05,Potential Loyal Customers
+1357,1,100,1188.78,Loyal Customers
+1364,7,47,314.99,Potential Loyal Customers
+1378,2,37,687.8,Potential Loyal Customers
+1379,7,37,415.21,Potential Loyal Customers
+1382,6,45,805.93,Potential Loyal Customers
+1388,2,42,643.7,Potential Loyal Customers
+1395,3,58,800.43,Potential Loyal Customers
+1397,0,51,733.48,Potential Loyal Customers
+1399,1,86,749.76,Loyal Customers
+1406,2,24,469.02,Potential Loyal Customers
+1412,1,48,326.19,Potential Loyal Customers
+1413,6,64,1048.66,Loyal Customers
+1419,0,32,312.16,Potential Loyal Customers
+1421,6,48,316.02,Potential Loyal Customers
+1432,1,46,676.35,Potential Loyal Customers
+1433,1,50,348.32,Potential Loyal Customers
+1437,0,89,1035.11,Loyal Customers
+1442,0,56,819.39,Potential Loyal Customers
+1446,1,57,769.23,Potential Loyal Customers
+1454,1,48,2785.03,Champions
+1461,0,80,638,Loyal Customers
+1464,6,32,529.6,Potential Loyal Customers
+1469,82,70,366.15,Need Attention
+1473,36,38,177.62,Promising Customers
+1474,17,68,737.58,Potential Loyal Customers
+1480,0,93,1847.31,Champions
+1484,3,144,962.19,Loyal Customers
+1497,3,77,427.07,Potential Loyal Customers
+1500,29,15,130.9,Promising Customers
+1508,0,27,427.23,Potential Loyal Customers
+1509,22,29,420.2,Potential Loyal Customers
+1511,146,6,69.47,Need Attention
+1514,11,29,1097.96,Potential Loyal Customers
+1519,12,33,290.89,Potential Loyal Customers
+1520,2,22,573.73,Potential Loyal Customers
+1524,1,17,572.2,Potential Loyal Customers
+1529,6,25,301.44,Potential Loyal Customers
+1540,51,7,113.93,Promising Customers
+1557,21,44,609.73,Potential Loyal Customers
+1559,2,71,376.09,Potential Loyal Customers
+1567,1,41,712.49,Potential Loyal Customers
+1579,1,159,1312.73,At Risk
+1580,3,21,324.37,Potential Loyal Customers
+1588,0,77,1366.6,Champions
+1589,3,22,794.97,Potential Loyal Customers
+1594,0,84,799.62,Loyal Customers
+1595,7,68,765.7,Loyal Customers
+1604,6,30,808.88,Potential Loyal Customers
+1617,3,46,453.06,Potential Loyal Customers
+1623,2,90,524.25,Loyal Customers
+1626,1,81,576.25,Loyal Customers
+1642,9,32,232.72,Potential Loyal Customers
+1652,0,95,349.67,Loyal Customers
+1654,0,31,427.18,Potential Loyal Customers
+1657,2,27,270.47,Potential Loyal Customers
+1663,1,71,435.98,Potential Loyal Customers
+1669,7,26,337.48,Potential Loyal Customers
+1671,1,86,756.81,Loyal Customers
+1676,3,31,1017.67,Potential Loyal Customers
+1696,7,52,1256.72,Champions
+1697,0,20,425.66,Potential Loyal Customers
+1704,5,46,305.17,Potential Loyal Customers
+1707,0,116,612.61,Loyal Customers
+1712,2,66,1188.48,Champions
+1716,19,28,435.95,Potential Loyal Customers
+1717,3,70,1562.51,Champions
+1721,0,48,579.98,Potential Loyal Customers
+1722,0,90,999.54,Loyal Customers
+1730,6,23,605.17,Potential Loyal Customers
+1731,11,26,730.88,Potential Loyal Customers
+1759,0,199,1033.47,At Risk
+1760,0,79,591.4,Loyal Customers
+1762,2,48,521.68,Potential Loyal Customers
+1764,26,38,338.71,Promising Customers
+1770,13,24,392.26,Potential Loyal Customers
+1774,0,77,603.32,Loyal Customers
+1780,2,69,1464.01,Champions
+1793,1,74,1452.63,Champions
+1799,4,38,2244.34,Champions
+1800,2,59,631.52,Potential Loyal Customers
+1805,3,12,274.77,Potential Loyal Customers
+1820,2,38,345.81,Potential Loyal Customers
+1831,0,63,231.49,Potential Loyal Customers
+1832,2,59,626.05,Potential Loyal Customers
+1849,0,59,515.43,Potential Loyal Customers
+1864,42,43,1035.65,Promising Customers
+1865,123,55,253.36,Need Attention
+1868,14,17,161.38,Potential Loyal Customers
+1869,8,24,617.32,Potential Loyal Customers
+1874,0,158,1244.1,At Risk
+1886,0,95,609.97,Loyal Customers
+1891,0,143,1546.27,At Risk
+1893,16,28,944.04,Potential Loyal Customers
+1894,1,52,576.43,Potential Loyal Customers
+1901,1,156,1050.79,Loyal Customers
+1903,1,37,625.88,Potential Loyal Customers
+1904,0,60,362.65,Potential Loyal Customers
+1905,11,24,347.8,Potential Loyal Customers
+1910,6,22,258.85,Potential Loyal Customers
+1911,9,42,718.45,Potential Loyal Customers
+1918,5,29,459.7,Potential Loyal Customers
+1922,0,108,874.83,Loyal Customers
+1923,0,115,1321.28,Loyal Customers
+1925,2,63,567.5,Potential Loyal Customers
+1926,0,229,625.16,At Risk
+1932,2,31,255.21,Potential Loyal Customers
+1935,0,15,47.48,Potential Loyal Customers
+1937,4,36,550.59,Potential Loyal Customers
+1938,0,100,837.02,Loyal Customers
+1939,0,136,799.67,Loyal Customers
+1943,1,51,977.9,Potential Loyal Customers
+1944,52,56,743.74,Promising Customers
+1969,1,55,499.55,Potential Loyal Customers
+1978,1,104,330.44,Loyal Customers
+1979,2,84,479.99,Loyal Customers
+1988,0,9,223.8,Potential Loyal Customers
+1989,0,25,913.36,Potential Loyal Customers
+1999,6,65,1055.87,Loyal Customers
+2011,35,82,1484.06,Champions
+2014,4,64,514.23,Potential Loyal Customers
+2019,2,37,370.44,Potential Loyal Customers
+2024,0,187,648.29,Loyal Customers
+2029,13,47,529.61,Potential Loyal Customers
+2049,0,34,497.4,Potential Loyal Customers
+2056,8,41,257.2,Potential Loyal Customers
+2063,6,26,1434.66,Champions
+2066,0,78,980.71,Loyal Customers
+2067,0,51,2020.23,Champions
+2083,1,64,991.55,Loyal Customers
+2110,15,24,203.81,Potential Loyal Customers
+2111,1,66,2057.73,Champions
+2117,0,173,517.47,Loyal Customers
+2125,2,42,471.22,Potential Loyal Customers
+2131,3,40,1652.12,Champions
+2132,2,207,1996.59,At Risk
+2138,0,80,476.85,Loyal Customers
+2139,0,15,247.67,Potential Loyal Customers
+2140,1,70,708.56,Loyal Customers
+2141,0,73,1282.96,Champions
+2146,0,61,644.21,Potential Loyal Customers
+2154,7,26,538.08,Potential Loyal Customers
+2162,6,28,435.5,Potential Loyal Customers
+2174,1,43,342.14,Potential Loyal Customers
+2177,0,69,747.78,Loyal Customers
+2182,1,13,273.99,Potential Loyal Customers
+2183,33,17,131.07,Promising Customers
+2192,3,54,849.22,Potential Loyal Customers
+2198,12,58,1073.85,Loyal Customers
+2207,0,43,1471.44,Champions
+2209,6,30,599.78,Potential Loyal Customers
+2214,1,56,946.35,Potential Loyal Customers
+2216,1,39,435.06,Potential Loyal Customers
+2225,1,15,1832.45,Champions
+2226,2,67,799.25,Loyal Customers
+2232,0,96,1155.1,Loyal Customers
+2233,0,85,1640.51,Champions
+2239,0,53,513,Potential Loyal Customers
+2242,15,21,226.29,Potential Loyal Customers
+2243,15,19,1222.34,Potential Loyal Customers
+2256,2,52,360.34,Potential Loyal Customers
+2260,0,37,1537.26,Champions
+2263,0,73,826.83,Loyal Customers
+2275,1,81,798.1,Loyal Customers
+2277,1,74,894.74,Loyal Customers
+2279,34,22,361.1,Promising Customers
+2282,32,11,763.86,Promising Customers
+2290,17,41,620.09,Potential Loyal Customers
+2291,6,23,675.13,Potential Loyal Customers
+2301,0,23,376.32,Potential Loyal Customers
+2312,2,39,553.91,Potential Loyal Customers
+2313,3,33,259.51,Potential Loyal Customers
+2322,0,107,662.25,Loyal Customers
+2326,1,139,2119.47,At Risk
+2327,5,32,414.14,Potential Loyal Customers
+2352,6,19,173.66,Potential Loyal Customers
+2359,3,96,828.22,Loyal Customers
+2366,1,73,2045.28,Champions
+2370,0,74,457.46,Potential Loyal Customers
+2376,0,105,487.4,Loyal Customers
+2377,0,89,1589.96,Champions
+2379,36,44,257.66,Promising Customers
+2388,10,99,629.31,Loyal Customers
+2392,5,19,176.93,Potential Loyal Customers
+2414,2,56,577.65,Potential Loyal Customers
+2417,47,44,892.61,Promising Customers
+2427,1,56,1672.41,Champions
+2431,21,20,1316.05,Champions
+2438,4,31,455.61,Potential Loyal Customers
+2442,0,80,536.53,Loyal Customers
+2445,0,43,341.21,Potential Loyal Customers
+2450,0,81,1143.92,Loyal Customers
+2451,4,43,492.34,Potential Loyal Customers
+2452,0,129,468.2,Loyal Customers
+2466,3,27,656.2,Potential Loyal Customers
+2469,0,108,1032.12,Loyal Customers
+2470,6,56,595.75,Potential Loyal Customers
+2473,0,27,804.05,Potential Loyal Customers
+2476,0,115,1024.67,Loyal Customers
+2498,0,48,755.38,Potential Loyal Customers
+2499,48,19,434.47,Promising Customers
+2500,0,59,2177.42,Champions
+2501,2,38,512.9,Potential Loyal Customers
+2503,1,173,602.79,Loyal Customers
+2511,1,49,1396.94,Champions
+2514,1,58,636.13,Potential Loyal Customers
+2519,4,36,320.83,Potential Loyal Customers
+2522,10,20,215.97,Potential Loyal Customers
+2532,22,46,614.89,Potential Loyal Customers
+2539,7,33,267.85,Potential Loyal Customers
+2559,4,62,977.11,Loyal Customers
+2566,3,28,245.29,Potential Loyal Customers
+2568,0,61,512.52,Potential Loyal Customers
+2573,1,83,757,Loyal Customers
+2575,0,172,2098.24,At Risk
+2581,0,27,388.09,Potential Loyal Customers
+2588,0,127,1264.34,Loyal Customers
+2590,1,37,248.28,Potential Loyal Customers
+2600,1,61,414.54,Potential Loyal Customers
+2603,0,63,737.04,Potential Loyal Customers
+2604,2,17,398.67,Potential Loyal Customers
+2606,1,72,623.38,Loyal Customers
+2614,0,116,1224.53,Loyal Customers
+2622,7,38,399.79,Potential Loyal Customers
+2623,14,113,1480.53,Champions
+2628,0,101,560.82,Loyal Customers
+2636,6,32,528.74,Potential Loyal Customers
+2638,3,28,189.22,Potential Loyal Customers
+2642,0,119,791.31,Loyal Customers
+2643,1,48,583.77,Potential Loyal Customers
+2645,8,23,484.26,Potential Loyal Customers
+2649,0,112,573.21,Loyal Customers
+2653,2,64,549.26,Potential Loyal Customers
+2657,0,63,451.27,Potential Loyal Customers
+2660,2,75,1476.43,Champions
+2662,6,43,765.63,Potential Loyal Customers
+2664,2,16,291.38,Potential Loyal Customers
+2667,6,29,989.26,Potential Loyal Customers
+2669,16,32,278.27,Potential Loyal Customers
+2671,3,36,1385.68,Champions
+2678,0,90,1644.48,Champions
+2684,0,155,1115.27,Loyal Customers
+2692,0,166,2425.46,At Risk
+2695,2,13,328.83,Potential Loyal Customers
+2705,4,62,1317.94,Champions
+2716,2,64,864.23,Loyal Customers
+2737,2,28,427.82,Potential Loyal Customers
+2744,5,49,782.16,Potential Loyal Customers
+2754,0,111,500.17,Loyal Customers
+2758,11,55,685.13,Potential Loyal Customers
+2760,1,54,290.59,Potential Loyal Customers
+2761,0,59,616.76,Potential Loyal Customers
+2764,7,32,542.1,Potential Loyal Customers
+2772,0,98,542.28,Loyal Customers
+2777,1,93,1013.56,Loyal Customers
+2780,0,25,374.95,Potential Loyal Customers
+2782,1,22,297.63,Potential Loyal Customers
+2784,0,39,558.16,Potential Loyal Customers
+2792,1,30,496.63,Potential Loyal Customers
+2795,87,17,204.75,Need Attention
+2798,3,77,643.96,Loyal Customers
+2802,2,116,884.27,Loyal Customers
+2807,1,71,437.14,Potential Loyal Customers
+2820,4,28,328.96,Potential Loyal Customers
+2832,10,59,904.49,Potential Loyal Customers
+2833,1,44,539.47,Potential Loyal Customers
+2834,29,33,1498.38,Champions
+2837,0,183,660.16,Loyal Customers
+2842,9,9,251.22,Potential Loyal Customers
+2848,36,51,1266.64,Promising Customers
+2852,0,63,692.08,Potential Loyal Customers
+2856,6,54,504.05,Potential Loyal Customers
+2861,1,54,498.86,Potential Loyal Customers
+2862,0,25,438.04,Potential Loyal Customers
+2865,0,35,471.63,Potential Loyal Customers
+2870,6,29,368.79,Potential Loyal Customers
+2874,2,66,1417.06,Champions
+2880,6,25,245.86,Potential Loyal Customers
+2882,1,46,459.72,Potential Loyal Customers
+2883,0,75,902.97,Loyal Customers
+2888,1,148,1002.15,Loyal Customers
+2892,1,159,645.01,Loyal Customers
+2897,0,88,914.11,Loyal Customers
+2898,18,29,389.16,Potential Loyal Customers
+2899,20,37,222.94,Potential Loyal Customers
+2901,3,41,600.83,Potential Loyal Customers
+2903,16,40,526,Potential Loyal Customers
+2905,2,88,502.12,Loyal Customers
+2906,1,127,791.37,Loyal Customers
+2916,4,61,936.18,Loyal Customers
+2917,0,32,388.36,Potential Loyal Customers
+2920,1,26,536.08,Potential Loyal Customers
+2921,2,56,422.05,Potential Loyal Customers
+2922,6,36,483.14,Potential Loyal Customers
+2923,6,39,478.34,Potential Loyal Customers
+2925,2,49,859.52,Potential Loyal Customers
+2928,2,18,1284.47,Champions
+2937,2,63,301.45,Potential Loyal Customers
+2977,0,120,776.71,Loyal Customers
+2981,3,20,524.82,Potential Loyal Customers
+2982,0,75,970.7,Loyal Customers
+2986,0,173,796.4,Loyal Customers
+2988,1,88,656.48,Loyal Customers
+2989,6,17,514.02,Potential Loyal Customers
+2994,0,47,586.07,Potential Loyal Customers
+3003,0,78,824.94,Loyal Customers
+3004,0,22,533.46,Potential Loyal Customers
+3008,0,79,1005.26,Loyal Customers
+3023,1,36,814.94,Potential Loyal Customers
+3027,3,31,228.97,Potential Loyal Customers
+3028,0,61,519.99,Potential Loyal Customers
+3038,1,105,951.5,Loyal Customers
+3046,101,21,242.15,Need Attention
+3050,11,11,274.64,Potential Loyal Customers
+3054,3,29,431.59,Potential Loyal Customers
+3064,11,37,503.12,Potential Loyal Customers
+3065,5,39,291.73,Potential Loyal Customers
+3066,1,75,575.99,Loyal Customers
+3070,3,72,579,Potential Loyal Customers
+3076,7,47,952.62,Potential Loyal Customers
+3087,11,24,448.8,Potential Loyal Customers
+3092,0,91,1959.54,Champions
+3096,0,13,528.43,Potential Loyal Customers
+3116,0,147,1354.4,Loyal Customers
+3117,0,104,436.2,Loyal Customers
+3122,0,177,866.09,Loyal Customers
+3126,2,60,842.24,Potential Loyal Customers
+3127,3,61,555.69,Potential Loyal Customers
+3128,1,91,873.07,Loyal Customers
+3139,0,53,1371.68,Champions
+3144,0,47,870.78,Potential Loyal Customers
+3145,6,17,256.67,Potential Loyal Customers
+3148,0,32,273.14,Potential Loyal Customers
+3149,9,38,595.72,Potential Loyal Customers
+3152,18,18,1151.82,Potential Loyal Customers
+3155,3,17,154.93,Potential Loyal Customers
+3158,0,121,892.48,Loyal Customers
+3165,0,105,778.9,Loyal Customers
+3167,2,43,1024.33,Potential Loyal Customers
+3168,10,17,195.46,Potential Loyal Customers
+3170,2,41,470.41,Potential Loyal Customers
+3172,0,53,1013.38,Potential Loyal Customers
+3176,0,67,491.49,Potential Loyal Customers
+3177,2,35,416.03,Potential Loyal Customers
+3181,5,23,187.3,Potential Loyal Customers
+3182,0,88,468.73,Loyal Customers
+3193,1,57,292.51,Potential Loyal Customers
+3196,55,90,614.18,Promising Customers
+3200,1,36,344.46,Potential Loyal Customers
+3202,0,81,934.77,Loyal Customers
+3203,0,31,1951.11,Champions
+3210,0,152,979.21,Loyal Customers
+3213,2,35,1015.64,Potential Loyal Customers
+3214,1,153,771.69,Loyal Customers
+3218,43,4,109.9,Promising Customers
+3230,4,70,1659.42,Champions
+3243,1,39,2019.02,Champions
+3269,6,18,383.04,Potential Loyal Customers
+3278,2,36,614.16,Potential Loyal Customers
+3289,51,15,291.99,Promising Customers
+3293,0,46,845.32,Potential Loyal Customers
+3311,0,43,335.81,Potential Loyal Customers
+3315,105,28,381.65,Need Attention
+3325,3,40,307.29,Potential Loyal Customers
+3331,0,28,1367.09,Champions
+3351,1,48,453.81,Potential Loyal Customers
+3353,3,55,919.68,Potential Loyal Customers
+3355,5,24,382.19,Potential Loyal Customers
+3363,4,47,348.2,Potential Loyal Customers
+3386,1,27,1263.47,Champions
+3391,0,83,506.22,Loyal Customers
+3394,2,54,466.42,Potential Loyal Customers
+3395,128,7,205.88,Need Attention
+3398,0,24,597.45,Potential Loyal Customers
+3420,0,54,309.54,Potential Loyal Customers
+3424,4,27,392.12,Potential Loyal Customers
+3431,2,27,389.65,Potential Loyal Customers
+3433,10,60,1905.49,Champions
+3446,0,66,1436.1,Champions
+3447,2,62,820.66,Potential Loyal Customers
+3451,1,95,586.28,Loyal Customers
+3452,0,100,767.84,Loyal Customers
+3455,0,116,856.82,Loyal Customers
+3457,113,32,115.9,Need Attention
+3458,6,38,2107.22,Champions
+3463,0,81,419.12,Loyal Customers
+3468,6,28,810.96,Potential Loyal Customers
+3472,9,95,280.37,Loyal Customers
+3497,0,60,650.08,Potential Loyal Customers
+3513,6,34,487.04,Potential Loyal Customers
+3529,0,61,369.47,Potential Loyal Customers
+3530,45,16,278.74,Promising Customers
+3541,4,56,507.81,Potential Loyal Customers
+3545,13,14,152.97,Potential Loyal Customers
+3552,2,54,395.62,Potential Loyal Customers
+3555,0,72,379.58,Potential Loyal Customers
+3566,0,98,677.35,Loyal Customers
+3568,6,14,613.66,Potential Loyal Customers
+3570,0,55,1378.81,Champions
+3571,0,175,2351.57,At Risk
+3579,3,65,792.52,Loyal Customers
+3583,0,106,619.83,Loyal Customers
+3586,6,35,625.68,Potential Loyal Customers
+3587,15,27,870.91,Potential Loyal Customers
+3594,0,134,1813.31,Champions
+3597,2,162,985.84,Loyal Customers
+3605,0,108,932.01,Loyal Customers
+3606,0,124,930.78,Loyal Customers
+3613,0,87,1414.33,Champions
+3617,3,36,447.11,Potential Loyal Customers
+3622,2,75,1769.96,Champions
+3633,4,8,141.15,Potential Loyal Customers
+3636,1,63,1626.97,Champions
+3641,1,54,644.57,Potential Loyal Customers
+3644,0,100,1416.86,Champions
+3647,0,125,1214.24,Loyal Customers
+3660,1,94,1540.32,Champions
+3663,0,139,1483.3,Champions
+3671,13,29,144.81,Potential Loyal Customers
+3676,0,110,619.89,Loyal Customers
+3679,3,84,331.96,Loyal Customers
+3685,6,49,843.36,Potential Loyal Customers
+3686,0,213,2224.27,At Risk
+3690,1,48,516.62,Potential Loyal Customers
+3693,1,51,213.87,Potential Loyal Customers
+3695,4,77,529.7,Loyal Customers
+3701,3,68,975.57,Loyal Customers
+3702,5,30,1231.02,Champions
+3711,0,67,873.47,Loyal Customers
+3715,0,134,1565.97,Champions
+3727,0,203,906.97,At Risk
+3728,1,51,1104.1,Potential Loyal Customers
+3730,7,24,637.1,Potential Loyal Customers
+3733,6,82,1312.99,Champions
+3740,0,53,522.89,Potential Loyal Customers
+3741,30,18,268.74,Promising Customers
+3745,1,73,560.97,Loyal Customers
+3756,0,138,841.45,Loyal Customers
+3759,31,28,338.2,Promising Customers
+3760,141,7,65.31,Need Attention
+3763,0,77,1318.69,Champions
+3780,3,17,753.11,Potential Loyal Customers
+3781,1,83,456.02,Loyal Customers
+3789,2,44,706.33,Potential Loyal Customers
+3798,0,101,580.71,Loyal Customers
+3817,0,122,1435.13,Champions
+3818,8,61,310.46,Potential Loyal Customers
+3819,3,74,706.94,Loyal Customers
+3820,0,46,561.36,Potential Loyal Customers
+3830,0,361,1514,At Risk
+3838,11,87,467.16,Loyal Customers
+3839,0,107,962.99,Loyal Customers
+3843,1,54,708.8,Potential Loyal Customers
+3844,3,29,693.94,Potential Loyal Customers
+3845,0,43,304,Potential Loyal Customers
+3848,0,147,1510.16,At Risk
+3855,2,34,379.85,Potential Loyal Customers
+3865,0,143,923.37,Loyal Customers
+3870,20,22,207.25,Potential Loyal Customers
+3877,10,29,328.9,Potential Loyal Customers
+3881,2,39,466.07,Potential Loyal Customers
+3887,0,115,806.97,Loyal Customers
+3892,0,140,1161.85,Loyal Customers
+3893,0,193,744.33,Loyal Customers
+3902,2,39,457.41,Potential Loyal Customers
+3940,20,24,208.93,Potential Loyal Customers
+3945,2,131,1434.76,Champions
+3947,0,110,1062.33,Loyal Customers
+3949,0,81,946.69,Loyal Customers
+3953,3,100,472.1,Loyal Customers
+3961,2,79,1957.82,Champions
+3967,20,24,229.34,Potential Loyal Customers
+3968,7,27,270.42,Potential Loyal Customers
+3973,3,15,316.6,Potential Loyal Customers
+3978,1,150,962.44,Loyal Customers
+3990,1,71,679.86,Loyal Customers
+3997,29,48,677.43,Promising Customers
+4005,2,23,617,Potential Loyal Customers
+4006,14,20,223.9,Potential Loyal Customers
+4020,0,19,380.33,Potential Loyal Customers
+4024,1,14,225.69,Potential Loyal Customers
+4025,0,60,618.19,Potential Loyal Customers
+4028,2,66,540.47,Potential Loyal Customers
+4030,0,103,616.6,Loyal Customers
+4035,107,23,451.81,Need Attention
+4042,1,33,370.11,Potential Loyal Customers
+4044,0,126,499.76,Loyal Customers
+4045,1,23,1123.24,Potential Loyal Customers
+4047,2,178,1318.51,At Risk
+4051,11,20,468.61,Potential Loyal Customers
+4053,0,50,764.75,Potential Loyal Customers
+4063,2,148,1371.35,At Risk
+4066,8,28,260.56,Potential Loyal Customers
+4069,2,53,592.48,Potential Loyal Customers
+4070,0,88,947.53,Loyal Customers
+4073,0,87,874.03,Loyal Customers
+4075,1,74,620.61,Loyal Customers
+4079,0,150,1898.04,At Risk
+4082,21,14,244.61,Potential Loyal Customers
+4083,0,101,603.63,Loyal Customers
+4084,6,26,289.13,Potential Loyal Customers
+4086,1,30,511.97,Potential Loyal Customers
+4098,14,17,470.53,Potential Loyal Customers
+4109,1,65,952.25,Loyal Customers
+4118,1,51,312.37,Potential Loyal Customers
+4134,0,68,853.01,Loyal Customers
+4135,2,38,384.7,Potential Loyal Customers
+4140,3,102,1178.34,Loyal Customers
+4149,10,38,768.24,Potential Loyal Customers
+4151,0,82,679.82,Loyal Customers
+4158,2,67,700.4,Potential Loyal Customers
+4163,0,171,879.88,Loyal Customers
+4166,0,57,611.96,Potential Loyal Customers
+4173,15,18,86.64,Potential Loyal Customers
+4176,0,35,412.95,Potential Loyal Customers
+4187,3,30,745.67,Potential Loyal Customers
+4188,0,89,422.43,Loyal Customers
+4193,0,98,1388.02,Champions
+4207,2,124,698.14,Loyal Customers
+4219,0,167,778.46,Loyal Customers
+4231,6,34,561.46,Potential Loyal Customers
+4232,0,82,963.43,Loyal Customers
+4235,6,24,609.01,Potential Loyal Customers
+4238,0,93,798.42,Loyal Customers
+4242,5,53,385.56,Potential Loyal Customers
+4243,11,21,930.64,Potential Loyal Customers
+4245,0,240,1297.45,At Risk
+4254,0,58,287.13,Potential Loyal Customers
+4257,0,30,381.08,Potential Loyal Customers
+4258,6,79,998.11,Loyal Customers
+4268,7,25,477.41,Potential Loyal Customers
+4278,3,40,488.96,Potential Loyal Customers
+4279,1,36,352.42,Potential Loyal Customers
+4280,2,81,460.28,Loyal Customers
+4285,2,97,387.96,Loyal Customers
+4290,1,93,981.13,Loyal Customers
+4294,3,82,1250.6,Champions
+4300,0,143,1470.69,At Risk
+4305,3,40,287.39,Potential Loyal Customers
+4307,3,99,2302.66,Champions
+4323,0,64,1063.9,Loyal Customers
+4338,6,48,540.25,Potential Loyal Customers
+4339,0,52,1279.81,Champions
+4348,11,32,486.88,Potential Loyal Customers
+4351,1,75,472.62,Potential Loyal Customers
+4354,2,54,1146.03,Champions
+4355,2,27,574.75,Potential Loyal Customers
+4361,3,96,506.03,Loyal Customers
+4365,0,107,716.1,Loyal Customers
+4368,0,206,2418.94,At Risk
+4376,1,19,425.71,Potential Loyal Customers
+4378,0,55,573.93,Potential Loyal Customers
+4383,0,198,1032.47,At Risk
+4384,1,87,1026.44,Loyal Customers
+4391,18,37,972.7,Potential Loyal Customers
+4407,0,44,434.31,Potential Loyal Customers
+4411,1,97,614.91,Loyal Customers
+4416,0,95,801.88,Loyal Customers
+4421,0,105,1364.68,Champions
+4423,0,155,620.95,Loyal Customers
+4434,1,120,1695.26,Champions
+4437,92,43,531.95,Need Attention
+4440,1,112,1033.31,Loyal Customers
+4446,76,52,561.56,Promising Customers
+4451,0,90,374.86,Loyal Customers
+4453,0,127,1178.74,Loyal Customers
+4454,1,126,1740.44,Champions
+4455,2,86,2015.9,Champions
+4459,1,134,1412.47,Champions
+4460,22,22,321.98,Promising Customers
+4481,1,115,445.75,Loyal Customers
+4484,3,61,330.57,Potential Loyal Customers
+4496,4,17,601.12,Potential Loyal Customers
+4497,1,112,635.4,Loyal Customers
+4499,1,136,1574.33,Champions
+4500,3,44,933.22,Potential Loyal Customers
+4503,25,33,590.31,Promising Customers
+4513,0,259,2337.14,At Risk
+4517,0,30,447.24,Potential Loyal Customers
+4518,0,79,850.42,Loyal Customers
+4547,52,71,485.71,Promising Customers
+4549,11,66,1277.35,Champions
+4552,0,174,2280.68,At Risk
+4559,0,183,821.77,Loyal Customers
+4570,1,103,899.56,Loyal Customers
+4572,8,28,751.29,Potential Loyal Customers
+4581,1,78,2119.31,Champions
+4586,0,58,965.72,Potential Loyal Customers
+4587,41,20,1116.27,Promising Customers
+4593,9,52,1545.76,Champions
+4597,1,20,431.9,Potential Loyal Customers
+4600,0,158,1015.16,Loyal Customers
+4603,0,56,841.58,Potential Loyal Customers
+4608,2,58,1360.55,Champions
+4620,1,47,822.58,Potential Loyal Customers
+4622,0,132,916.81,Loyal Customers
+4636,3,32,447.13,Potential Loyal Customers
+4637,7,38,638.14,Potential Loyal Customers
+4639,0,36,631.8,Potential Loyal Customers
+4648,1,73,1126.4,Loyal Customers
+4664,0,109,1051.26,Loyal Customers
+4667,0,170,1664.98,At Risk
+4669,1,44,1359.71,Champions
+4670,2,88,1085.56,Loyal Customers
+4675,1,348,3085.67,At Risk
+4683,3,39,500.31,Potential Loyal Customers
+4691,0,156,1595.92,At Risk
+4694,2,25,211.12,Potential Loyal Customers
+4696,0,103,1454.8,Champions
+4703,1,51,852.07,Potential Loyal Customers
+4709,0,21,140.5,Potential Loyal Customers
+4711,2,87,1226.94,Loyal Customers
+4715,5,41,733.08,Potential Loyal Customers
+4724,8,54,318.72,Potential Loyal Customers
+4725,6,70,744.35,Loyal Customers
+4726,0,122,759.69,Loyal Customers
+4730,41,33,407.03,Promising Customers
+4740,1,79,926.94,Loyal Customers
+4745,23,17,138.58,Promising Customers
+4749,3,92,631.12,Loyal Customers
+4754,0,98,799.76,Loyal Customers
+4757,3,27,452.42,Potential Loyal Customers
+4769,0,154,1476.47,At Risk
+4770,1,90,732.18,Loyal Customers
+4776,7,92,839.74,Loyal Customers
+4781,3,29,957.45,Potential Loyal Customers
+4790,17,14,408.7,Potential Loyal Customers
+4794,0,36,406.67,Potential Loyal Customers
+4801,41,12,199.64,Promising Customers
+4804,0,271,1247.71,At Risk
+4805,2,82,862.6,Loyal Customers
+4806,1,28,126.54,Potential Loyal Customers
+4807,1,68,829.6,Loyal Customers
+4810,0,119,597.75,Loyal Customers
+4812,36,78,751.23,Promising Customers
+4833,4,22,384.32,Potential Loyal Customers
+4836,7,31,681.89,Potential Loyal Customers
+4848,3,64,591.42,Potential Loyal Customers
+4857,0,111,979.81,Loyal Customers
+4861,0,50,261.63,Potential Loyal Customers
+4865,0,30,402.11,Potential Loyal Customers
+4869,7,61,821.7,Potential Loyal Customers
+4873,1,47,672.07,Potential Loyal Customers
+4875,1,72,686.39,Loyal Customers
+4876,0,190,607.46,Loyal Customers
+4880,0,86,1293.55,Champions
+4882,0,97,1069.16,Loyal Customers
+4895,2,63,1008.35,Loyal Customers
+4897,1,149,819.04,Loyal Customers
+4900,7,51,985.63,Potential Loyal Customers
+4905,2,60,1083.24,Loyal Customers
+4917,2,79,869.81,Loyal Customers
+4919,8,83,766.13,Loyal Customers
+4922,0,45,887.91,Potential Loyal Customers
+4924,1,113,963.14,Loyal Customers
+4934,0,73,763.06,Loyal Customers
+4941,0,154,484.65,Loyal Customers
+4942,0,75,1012.73,Loyal Customers
+4949,1,53,355.79,Potential Loyal Customers
+4970,12,67,335.76,Potential Loyal Customers
+4976,0,146,873.25,Loyal Customers
+4978,6,41,840.47,Potential Loyal Customers
+4984,49,50,925.42,Promising Customers
+4993,0,58,637.78,Potential Loyal Customers
+4994,0,159,2374.54,At Risk
+5006,3,39,450.43,Potential Loyal Customers
+5008,15,25,628.29,Potential Loyal Customers
+5009,0,93,705.6,Loyal Customers
+5011,1,69,1305.51,Champions
+5013,0,76,1195.42,Champions
+5025,0,53,1083.39,Potential Loyal Customers
+5029,1,70,619.03,Potential Loyal Customers
+5031,24,83,443.12,Loyal Customers
+5036,1,30,1469.03,Champions
+5044,0,45,798.25,Potential Loyal Customers
+5050,8,13,221.68,Potential Loyal Customers
+5053,0,96,1389.59,Champions
+5055,1,48,396.86,Potential Loyal Customers
+5056,0,154,1392.85,At Risk
+5057,0,127,2344.46,Champions
+5058,0,112,1641.05,Champions
+5060,0,174,1610.37,At Risk
+5066,1,47,591.58,Potential Loyal Customers
+5076,0,121,1439.27,Champions
+5080,1,48,863.76,Potential Loyal Customers
+5081,9,28,158.77,Potential Loyal Customers
+5090,0,63,1324.8,Champions
+5091,1,88,1639.03,Champions
+5092,2,59,584.72,Potential Loyal Customers
+5093,0,165,858.73,Loyal Customers
+5104,1,61,490.49,Potential Loyal Customers
+5105,1,82,410.17,Loyal Customers
+5107,0,108,1045.31,Loyal Customers
+5110,1,218,4091.27,At Risk
+5130,2,22,277.99,Potential Loyal Customers
+5134,0,136,1202.15,Loyal Customers
+5137,0,189,1106.03,At Risk
+5146,1,44,576.71,Potential Loyal Customers
+5169,3,105,1281.74,Loyal Customers
+5170,0,30,353.34,Potential Loyal Customers
+5175,0,62,795.89,Potential Loyal Customers
+5179,7,33,898.87,Potential Loyal Customers
+5185,0,220,915.32,At Risk
+5189,0,60,2597.74,Champions
+5198,66,26,704.13,Promising Customers
+5204,1,88,693.23,Loyal Customers
+5215,0,101,1082.74,Loyal Customers
+5233,2,133,898.23,Loyal Customers
+5234,49,64,275.76,Promising Customers
+5240,3,53,870.1,Potential Loyal Customers
+5242,7,13,653.86,Potential Loyal Customers
+5246,1,142,743.88,Loyal Customers
+5256,1,78,2900.34,Champions
+5261,3,7,253.25,Potential Loyal Customers
+5264,1,23,447.37,Potential Loyal Customers
+5268,3,46,339.65,Potential Loyal Customers
+5275,10,19,402.92,Potential Loyal Customers
+5284,2,138,1489.72,Champions
+5290,0,94,697.3,Loyal Customers
+5296,0,102,641,Loyal Customers
+5310,0,34,574.65,Potential Loyal Customers
+5319,53,97,725.89,Promising Customers
+5320,0,149,1522.17,At Risk
+5321,33,23,891.5,Promising Customers
+5328,1,111,1580.06,Champions
+5330,3,50,140.94,Potential Loyal Customers
+5331,1,155,1104.01,Loyal Customers
+5332,1,105,955.93,Loyal Customers
+5339,25,19,261.01,Promising Customers
+5340,0,152,665.71,Loyal Customers
+5345,2,95,455.94,Loyal Customers
+5351,3,53,291.1,Potential Loyal Customers
+5356,4,70,479.74,Potential Loyal Customers
+5358,2,56,445.76,Potential Loyal Customers
+5360,0,38,1133.99,Potential Loyal Customers
+5363,3,154,1225.49,Loyal Customers
+5364,10,52,916.41,Potential Loyal Customers
+5365,2,57,802.48,Potential Loyal Customers
+5373,1,40,196.83,Potential Loyal Customers
+5377,0,192,1660.63,At Risk
+5378,1,121,1948.03,Champions
+5393,1,77,666.49,Loyal Customers
+5399,1,70,709.09,Loyal Customers
+5407,8,33,394.17,Potential Loyal Customers
+5426,0,122,1253.95,Loyal Customers
+5431,1,85,1060.2,Loyal Customers
+5440,65,13,156.13,Promising Customers
+5453,6,23,560.3,Potential Loyal Customers
+5455,7,36,565.47,Potential Loyal Customers
+5457,1,72,378.04,Potential Loyal Customers
+5460,0,104,2134.11,Champions
+5467,0,122,1228.99,Loyal Customers
+5470,0,124,1229.47,Loyal Customers
+5472,1,104,470.03,Loyal Customers
+5485,3,55,507.06,Potential Loyal Customers
+5492,14,70,397.39,Potential Loyal Customers
+5498,0,27,1623.21,Champions
+5501,0,181,1433.92,At Risk
+5502,2,109,1179.91,Loyal Customers
+5503,8,19,399.28,Potential Loyal Customers
+5510,0,65,606.42,Potential Loyal Customers
+5512,0,47,979.9,Potential Loyal Customers
+5518,0,88,856.56,Loyal Customers
+5530,0,65,614.84,Potential Loyal Customers
+5533,8,58,420.16,Potential Loyal Customers
+5540,0,188,485.66,Loyal Customers
+5542,12,41,431.3,Potential Loyal Customers
+5543,2,115,1105.65,Loyal Customers
+5544,0,217,1385.95,At Risk
+5550,3,65,815.29,Loyal Customers
+5553,3,54,591.43,Potential Loyal Customers
+5556,1,19,312.67,Potential Loyal Customers
+5557,1,56,442.98,Potential Loyal Customers
+5558,8,120,991.24,Loyal Customers
+5561,2,105,984.89,Loyal Customers
+5562,0,114,849.87,Loyal Customers
+5578,0,221,732.04,At Risk
+5580,4,87,1261.2,Champions
+5593,0,63,500.69,Potential Loyal Customers
+5596,4,96,1353.95,Champions
+5601,4,82,495.85,Loyal Customers
+5615,0,29,542.14,Potential Loyal Customers
+5622,1,120,807.18,Loyal Customers
+5625,2,74,907.08,Loyal Customers
+5630,7,15,454.78,Potential Loyal Customers
+5631,0,58,1341.93,Champions
+5635,7,35,272.2,Potential Loyal Customers
+5636,2,22,704.11,Potential Loyal Customers
+5641,6,63,1565.12,Champions
+5642,0,81,472.4,Loyal Customers
+5647,2,130,1151.6,Loyal Customers
+5664,0,101,2044.02,Champions
+5665,0,33,340.54,Potential Loyal Customers
+5667,1,94,631.1,Loyal Customers
+5676,0,118,879.91,Loyal Customers
+5679,3,57,433.68,Potential Loyal Customers
+5696,1,60,1334.7,Champions
+5702,1,42,676.6,Potential Loyal Customers
+5703,0,74,1348.33,Champions
+5704,1,109,2095.28,Champions
+5706,0,62,454.13,Potential Loyal Customers
+5709,3,90,838.78,Loyal Customers
+5722,0,99,1263.13,Loyal Customers
+5730,1,150,758.74,Loyal Customers
+5731,1,114,1480.84,Champions
+5754,0,54,699.86,Potential Loyal Customers
+5764,0,169,1503.4,At Risk
+5765,0,105,707.11,Loyal Customers
+5785,4,45,343.4,Potential Loyal Customers
+5799,3,21,239.77,Potential Loyal Customers
+5802,10,68,737.02,Potential Loyal Customers
+5806,2,91,584.11,Loyal Customers
+5817,0,116,778.75,Loyal Customers
+5831,0,97,812.13,Loyal Customers
+5832,4,23,322.85,Potential Loyal Customers
+5852,0,222,2636.2,At Risk
+5858,3,33,614.61,Potential Loyal Customers
+5860,0,288,1975.92,At Risk
+5864,1,166,2674.16,At Risk
+5868,26,50,240.62,Promising Customers
+5869,1,78,378.46,Potential Loyal Customers
+5871,2,54,369.35,Potential Loyal Customers
+5878,1,112,773.46,Loyal Customers
+5888,2,45,801.91,Potential Loyal Customers
+5901,0,49,504.58,Potential Loyal Customers
+5903,0,217,981.49,At Risk
+5908,2,125,680.97,Loyal Customers
+5920,1,58,1029.9,Loyal Customers
+5927,7,21,354.46,Potential Loyal Customers
+5936,7,32,504.26,Potential Loyal Customers
+5942,14,19,435.82,Potential Loyal Customers
+5943,5,48,385.12,Potential Loyal Customers
+5944,0,85,752.97,Loyal Customers
+5948,0,104,848.23,Loyal Customers
+5949,1,24,378.85,Potential Loyal Customers
+5950,0,34,819.36,Potential Loyal Customers
+5951,4,40,766.3,Potential Loyal Customers
+5956,7,44,676,Potential Loyal Customers
+5965,9,25,532.36,Potential Loyal Customers
+5984,4,39,1128.27,Potential Loyal Customers
+5985,0,97,805.63,Loyal Customers
+5986,3,63,1744.14,Champions
+5989,7,34,192.73,Potential Loyal Customers
+5994,7,85,945.66,Loyal Customers
+5995,0,114,652.6,Loyal Customers
+6000,3,21,178.27,Potential Loyal Customers
+6001,1,76,1234.05,Champions
+6002,0,86,1053.19,Loyal Customers
+6012,0,84,454.92,Loyal Customers
+6021,0,171,1282.75,At Risk
+6022,15,11,80.27,Potential Loyal Customers
+6024,9,32,252.02,Potential Loyal Customers
+6028,3,53,484.06,Potential Loyal Customers
+6032,13,43,1337.37,Champions
+6040,2,49,530.49,Potential Loyal Customers
+6042,0,53,966.04,Potential Loyal Customers
+6043,2,11,136.03,Potential Loyal Customers
+6056,3,118,1089.35,Loyal Customers
+6059,11,29,953.57,Potential Loyal Customers
+6063,0,345,924.18,At Risk
+6067,6,85,558.21,Loyal Customers
+6069,89,25,194.22,Need Attention
+6070,1,77,713.32,Loyal Customers
+6072,0,142,591.78,Loyal Customers
+6073,3,73,491.52,Potential Loyal Customers
+6074,0,35,554.29,Potential Loyal Customers
+6079,0,107,1863.01,Champions
+6080,1,128,1674.76,Champions
+6081,3,55,1106.99,Loyal Customers
+6083,0,108,947.9,Loyal Customers
+6086,0,173,1843.41,At Risk
+6089,1,82,861.1,Loyal Customers
+6097,16,116,4448.19,At Risk
+6114,0,149,935.45,Loyal Customers
+6115,2,52,559.31,Potential Loyal Customers
+6117,9,41,516.23,Potential Loyal Customers
+6120,0,142,1561.12,At Risk
+6124,7,43,1235.15,Champions
+6126,0,111,868.05,Loyal Customers
+6144,85,27,225.42,Need Attention
+6153,5,37,1014.73,Potential Loyal Customers
+6159,0,35,368.36,Potential Loyal Customers
+6160,31,26,479.75,Promising Customers
+6162,16,29,806.04,Potential Loyal Customers
+6170,6,29,384.65,Potential Loyal Customers
+6177,0,135,1469.18,Champions
+6180,1,134,695.62,Loyal Customers
+6189,0,92,1578.86,Champions
+6197,0,101,1108.84,Loyal Customers
+6220,1,60,1086.97,Loyal Customers
+6229,1,50,855.66,Potential Loyal Customers
+6235,3,47,396.55,Potential Loyal Customers
+6237,2,34,263.54,Potential Loyal Customers
+6239,2,98,675.19,Loyal Customers
+6240,12,55,420.67,Potential Loyal Customers
+6245,3,32,433.78,Potential Loyal Customers
+6246,7,100,1288.7,Champions
+6248,0,188,3940.75,At Risk
+6250,3,34,540.51,Potential Loyal Customers
+6251,1,41,570.77,Potential Loyal Customers
+6252,6,35,875.91,Potential Loyal Customers
+6254,0,152,632.32,Loyal Customers
+6258,4,26,418.5,Potential Loyal Customers
+6267,0,48,569.32,Potential Loyal Customers
+6270,0,179,1532.24,At Risk
+6292,1,63,456.08,Potential Loyal Customers
+6294,6,49,540.3,Potential Loyal Customers
+6299,0,124,1320.36,Loyal Customers
+6305,1,54,667.22,Potential Loyal Customers
+6314,4,70,2801.32,Champions
+6327,19,39,665.08,Potential Loyal Customers
+6330,6,134,682.08,Loyal Customers
+6333,1,89,902.99,Loyal Customers
+6335,69,20,378.15,Promising Customers
+6340,3,46,3578.62,Champions
+6344,11,107,682.53,Loyal Customers
+6348,0,101,1014.49,Loyal Customers
+6350,3,24,569.77,Potential Loyal Customers
+6355,0,100,1148.66,Loyal Customers
+6358,0,42,476.98,Potential Loyal Customers
+6365,2,29,896.96,Potential Loyal Customers
+6370,6,114,1537.91,Champions
+6394,1,75,518.38,Loyal Customers
+6395,0,98,453.65,Loyal Customers
+6396,27,21,198.93,Promising Customers
+6409,14,20,192.33,Potential Loyal Customers
+6414,1,83,817.95,Loyal Customers
+6415,2,62,918.58,Loyal Customers
+6428,1,70,707.49,Loyal Customers
+6432,6,22,452.95,Potential Loyal Customers
+6434,1,28,877.16,Potential Loyal Customers
+6441,1,77,720.96,Loyal Customers
+6453,0,179,1044.71,At Risk
+6454,2,74,795.35,Loyal Customers
+6460,6,26,354.33,Potential Loyal Customers
+6461,0,277,3491.78,At Risk
+6462,2,176,832.19,Loyal Customers
+6465,0,48,1220.31,Champions
+6468,2,68,450.52,Potential Loyal Customers
+6470,7,50,579.03,Potential Loyal Customers
+6471,0,34,709.61,Potential Loyal Customers
+6483,0,84,1260.59,Champions
+6497,0,150,2195.36,At Risk
+6506,0,108,705.97,Loyal Customers
+6521,0,94,2703.97,Champions
+6523,0,32,573.18,Potential Loyal Customers
+6536,1,111,890.69,Loyal Customers
+6537,2,62,648.05,Potential Loyal Customers
+6538,0,45,936.54,Potential Loyal Customers
+6540,10,25,296.86,Potential Loyal Customers
+6541,0,39,1083.71,Potential Loyal Customers
+6558,0,84,427.77,Loyal Customers
+6562,0,198,1518.24,At Risk
+6565,0,111,1764.45,Champions
+6566,7,96,506.97,Loyal Customers
+6569,0,126,915.44,Loyal Customers
+6573,0,110,1878.72,Champions
+6587,1,160,968.42,Loyal Customers
+6588,2,28,420.49,Potential Loyal Customers
+6590,0,83,474.88,Loyal Customers
+6600,1,78,1089.9,Loyal Customers
+6602,0,76,1050.98,Loyal Customers
+6609,8,27,2211.59,Champions
+6618,10,18,492.22,Potential Loyal Customers
+6620,6,35,524.24,Potential Loyal Customers
+6621,1,31,481.47,Potential Loyal Customers
+6622,6,47,530.17,Potential Loyal Customers
+6631,2,41,944.02,Potential Loyal Customers
+6632,0,90,1912.88,Champions
+6647,0,76,929.59,Loyal Customers
+6654,1,41,458.43,Potential Loyal Customers
+6668,3,212,2163.82,At Risk
+6674,131,37,402.99,Need Attention
+6680,4,55,1612.19,Champions
+6695,5,112,1348.26,Champions
+6701,11,74,800.25,Loyal Customers
+6709,5,115,780.77,Loyal Customers
+6712,4,90,719.79,Loyal Customers
+6716,46,87,779.55,Promising Customers
+6731,11,34,221.95,Potential Loyal Customers
+6738,0,49,1204.54,Champions
+6744,0,178,2778.2,At Risk
+6745,36,10,178.72,Promising Customers
+6748,5,39,435.47,Potential Loyal Customers
+6750,19,40,391.9,Potential Loyal Customers
+6751,1,52,690.01,Potential Loyal Customers
+6752,10,89,607.54,Loyal Customers
+6759,0,116,1982.1,Champions
+6760,0,28,1854.14,Champions
+6762,0,162,2063.8,At Risk
+6764,15,87,633.78,Loyal Customers
+6778,1,14,372.68,Potential Loyal Customers
+6781,0,102,1709.86,Champions
+6787,1,31,1075.44,Potential Loyal Customers
+6791,19,22,261.21,Potential Loyal Customers
+6795,0,153,1143.05,Loyal Customers
+6797,2,82,2047.21,Champions
+6798,3,87,663.14,Loyal Customers
+6802,1,120,1210.41,Loyal Customers
+6804,1,81,895.42,Loyal Customers
+6805,5,43,441.47,Potential Loyal Customers
+6806,42,16,396.03,Promising Customers
+6809,13,67,506.88,Potential Loyal Customers
+6811,119,62,455.46,Need Attention
+6832,2,49,820.45,Potential Loyal Customers
+6834,0,51,529.55,Potential Loyal Customers
+6847,4,107,835.17,Loyal Customers
+6848,0,172,2221.62,At Risk
+6856,1,66,574.39,Potential Loyal Customers
+6871,8,57,896.57,Potential Loyal Customers
+6875,2,38,683.49,Potential Loyal Customers
+6889,0,160,691.33,Loyal Customers
+6894,3,68,405.38,Potential Loyal Customers
+6899,0,81,1051.85,Loyal Customers
+6904,0,307,1582.62,At Risk
+6913,0,32,267.53,Potential Loyal Customers
+6917,2,28,391.98,Potential Loyal Customers
+6920,3,33,799.87,Potential Loyal Customers
+6922,1,62,516.03,Potential Loyal Customers
+6923,1,91,368.31,Loyal Customers
+6924,1,197,920.92,At Risk
+6937,7,48,733.59,Potential Loyal Customers
+6939,3,65,896.09,Loyal Customers
+6940,16,46,483.61,Potential Loyal Customers
+6945,1,83,686.68,Loyal Customers
+6948,2,53,493.5,Potential Loyal Customers
+6950,6,24,291.45,Potential Loyal Customers
+6951,4,86,2466.4,Champions
+6952,2,92,1147.33,Loyal Customers
+6953,6,49,303.23,Potential Loyal Customers
+6954,11,18,315.21,Potential Loyal Customers
+6955,7,31,520.16,Potential Loyal Customers
+6967,0,33,472.67,Potential Loyal Customers
+6970,6,26,272.04,Potential Loyal Customers
+6981,13,49,737.46,Potential Loyal Customers
+6985,6,82,766.13,Loyal Customers
+6989,57,83,528.2,Promising Customers
+6992,2,39,748.11,Potential Loyal Customers
+7005,0,65,2417.91,Champions
+7010,1,34,588.3,Potential Loyal Customers
+7013,0,64,703.37,Potential Loyal Customers
+7016,0,64,980.29,Loyal Customers
+7017,22,33,502.26,Potential Loyal Customers
+7019,8,51,318.25,Potential Loyal Customers
+7032,21,31,450.45,Potential Loyal Customers
+7036,85,24,194.6,Need Attention
+7041,3,32,686.41,Potential Loyal Customers
+7044,10,39,621.44,Potential Loyal Customers
+7046,6,77,644.09,Loyal Customers
+7053,43,42,485.1,Promising Customers
+7061,56,37,208.38,Promising Customers
+7063,6,29,329.4,Potential Loyal Customers
+7064,4,84,931.77,Loyal Customers
+7067,0,72,2001.06,Champions
+7068,7,48,647.19,Potential Loyal Customers
+7074,0,55,1077.22,Loyal Customers
+7077,3,38,384.55,Potential Loyal Customers
+7079,1,108,528.33,Loyal Customers
+7083,7,20,1413.95,Champions
+7091,6,34,404.79,Potential Loyal Customers
+7093,8,25,645.4,Potential Loyal Customers
+7094,5,20,448.42,Potential Loyal Customers
+7104,0,143,896.16,Loyal Customers
+7110,3,22,660.92,Potential Loyal Customers
+7124,1,47,529.04,Potential Loyal Customers
+7126,7,50,358.97,Potential Loyal Customers
+7127,1,46,656.33,Potential Loyal Customers
+7130,83,21,784.76,Need Attention
+7131,2,97,633.75,Loyal Customers
+7132,147,2,71.43,Need Attention
+7135,127,10,314.91,Need Attention
+7138,4,29,705.07,Potential Loyal Customers
+7141,1,35,501.63,Potential Loyal Customers
+7145,7,65,339.21,Potential Loyal Customers
+7146,0,31,479.83,Potential Loyal Customers
+7148,6,33,767.9,Potential Loyal Customers
+7150,1,25,265.39,Potential Loyal Customers
+7158,3,27,871.57,Potential Loyal Customers
+7161,3,25,252.06,Potential Loyal Customers
+7172,1,34,225.77,Potential Loyal Customers
+7175,3,88,632,Loyal Customers
+7191,0,66,1391.98,Champions
+7199,0,94,1332.88,Champions
+7210,3,30,2143.5,Champions
+7219,2,67,1019.98,Loyal Customers
+7250,0,90,862.86,Loyal Customers
+7251,8,38,552.33,Potential Loyal Customers
+7257,8,32,358.53,Potential Loyal Customers
+7263,1,49,378.96,Potential Loyal Customers
+7269,0,19,593.55,Potential Loyal Customers
+7276,0,110,998.96,Loyal Customers
+7280,4,55,720.28,Potential Loyal Customers
+7289,1,38,1150.69,Potential Loyal Customers
+7299,1,50,637.84,Potential Loyal Customers
+7302,0,52,1298.83,Champions
+7303,0,78,795.13,Loyal Customers
+7307,0,166,1027.92,Loyal Customers
+7314,1,78,868.6,Loyal Customers
+7329,1,40,1320.63,Champions
+7330,2,62,429.66,Potential Loyal Customers
+7331,3,34,1100.11,Potential Loyal Customers
+7334,0,38,1075.83,Potential Loyal Customers
+7336,3,81,710.22,Loyal Customers
+7342,0,181,1151.77,At Risk
+7345,5,52,1791.58,Champions
+7346,13,27,328.78,Potential Loyal Customers
+7359,0,45,549.37,Potential Loyal Customers
+7362,13,93,854.09,Loyal Customers
+7365,71,42,535.76,Promising Customers
+7368,108,34,223.53,Need Attention
+7372,2,66,581.24,Potential Loyal Customers
+7379,16,29,892.35,Potential Loyal Customers
+7384,2,100,1076.4,Loyal Customers
+7385,2,27,1982.45,Champions
+7386,11,105,2196.03,Champions
+7399,12,36,381.09,Potential Loyal Customers
+7401,14,49,431.64,Potential Loyal Customers
+7405,0,65,878.72,Loyal Customers
+7406,1,57,1164.53,Champions
+7407,2,33,1068.68,Potential Loyal Customers
+7414,0,105,906.24,Loyal Customers
+7418,1,30,769.81,Potential Loyal Customers
+7422,11,26,310.9,Potential Loyal Customers
+7428,4,23,533.02,Potential Loyal Customers
+7433,0,20,567.57,Potential Loyal Customers
+7435,0,29,529.04,Potential Loyal Customers
+7436,0,52,569.09,Potential Loyal Customers
+7448,0,41,550.85,Potential Loyal Customers
+7454,3,40,1020.59,Potential Loyal Customers
+7458,1,103,1418.84,Champions
+7460,25,19,858.84,Promising Customers
+7462,1,127,941.29,Loyal Customers
+7470,12,42,560.75,Potential Loyal Customers
+7478,6,19,283.38,Potential Loyal Customers
+7479,7,50,331.45,Potential Loyal Customers
+7484,1,44,300.8,Potential Loyal Customers
+7494,1,59,867.8,Potential Loyal Customers
+7499,0,48,633.48,Potential Loyal Customers
+7513,0,59,252.64,Potential Loyal Customers
+7516,0,55,3676.46,Champions
+7517,2,54,438.96,Potential Loyal Customers
+7518,0,52,835.54,Potential Loyal Customers
+7520,10,16,265.48,Potential Loyal Customers
+7529,3,92,751.76,Loyal Customers
+7531,0,33,361.23,Potential Loyal Customers
+7536,1,70,1593.88,Champions
+7538,0,149,1447.79,At Risk
+7554,2,28,688.01,Potential Loyal Customers
+7559,2,90,760.09,Loyal Customers
+7560,0,35,225.12,Potential Loyal Customers
+7572,3,52,611.72,Potential Loyal Customers
+7576,0,42,769.11,Potential Loyal Customers
+7587,2,24,1660.82,Champions
+7604,0,68,1028.21,Loyal Customers
+7607,0,170,543.81,Loyal Customers
+7620,163,25,150.58,Need Attention
+7621,32,38,1020.41,Promising Customers
+7626,27,20,1802.86,Champions
+7643,1,142,1128.25,Loyal Customers
+7644,1,71,597.81,Potential Loyal Customers
+7650,0,66,395.59,Potential Loyal Customers
+7658,0,58,783.07,Potential Loyal Customers
+7660,0,112,1137.69,Loyal Customers
+7665,2,78,678.55,Loyal Customers
+7675,3,39,1541.33,Champions
+7683,1,97,559.7,Loyal Customers
+7699,0,80,1471.56,Champions
+7700,0,49,770.01,Potential Loyal Customers
+7705,8,14,810.6,Potential Loyal Customers
+7710,1,68,813.69,Loyal Customers
+7715,4,72,579.94,Potential Loyal Customers
+7726,3,90,913.8,Loyal Customers
+7729,7,42,1309.01,Champions
+7747,0,102,1858.77,Champions
+7756,0,67,443.32,Potential Loyal Customers
+7758,10,32,354.86,Potential Loyal Customers
+7773,13,17,512.61,Potential Loyal Customers
+7782,3,74,690.83,Loyal Customers
+7789,13,56,545.25,Potential Loyal Customers
+7792,1,48,594.98,Potential Loyal Customers
+7806,1,77,932.52,Loyal Customers
+7814,0,49,408.04,Potential Loyal Customers
+7816,1,116,1013.26,Loyal Customers
+7823,1,102,2221.03,Champions
+7825,3,45,765.79,Potential Loyal Customers
+7830,3,35,533.41,Potential Loyal Customers
+7840,3,45,378.94,Potential Loyal Customers
+7843,7,45,823.14,Potential Loyal Customers
+7849,3,50,794.35,Potential Loyal Customers
+7855,0,163,879.25,Loyal Customers
+7874,3,17,319.51,Potential Loyal Customers
+7881,1,119,877.82,Loyal Customers
+7884,3,49,323.17,Potential Loyal Customers
+7897,28,61,477.2,Promising Customers
+7903,1,48,678.01,Potential Loyal Customers
+7905,2,48,399.5,Potential Loyal Customers
+7910,117,34,366.1,Need Attention
+7914,3,86,847.77,Loyal Customers
+7944,0,119,639.93,Loyal Customers
+7955,2,95,635.66,Loyal Customers
+7957,6,31,1276.18,Champions
+7964,0,110,547.16,Loyal Customers
+7969,10,35,282.1,Potential Loyal Customers
+7973,15,25,286.79,Potential Loyal Customers
+7977,0,182,1782.49,At Risk
+7991,14,25,320.05,Potential Loyal Customers
+7996,0,80,765.4,Loyal Customers
+8011,0,39,1512.12,Champions
+8022,0,130,398.33,Loyal Customers
+8061,3,9,267.01,Potential Loyal Customers
+8062,8,20,488.65,Potential Loyal Customers
+8065,1,41,1033.14,Potential Loyal Customers
+8066,1,87,691.17,Loyal Customers
+8069,3,35,307.68,Potential Loyal Customers
+8071,0,137,1433.74,Champions
+8074,6,26,796.07,Potential Loyal Customers
+8087,58,38,866.28,Promising Customers
+8092,1,66,617.5,Potential Loyal Customers
+8099,0,59,501.4,Potential Loyal Customers
+8108,0,106,1173.57,Loyal Customers
+8115,1,64,829.38,Loyal Customers
+8116,1,21,442.54,Potential Loyal Customers
+8118,13,43,779.96,Potential Loyal Customers
+8119,3,25,364.44,Potential Loyal Customers
+8137,0,28,178.88,Potential Loyal Customers
+8142,1,142,1972.28,At Risk
+8145,1,124,1042.96,Loyal Customers
+8152,0,191,3522.19,At Risk
+8154,16,19,775.08,Potential Loyal Customers
+8165,7,112,310.6,Loyal Customers
+8171,1,50,369.31,Potential Loyal Customers
+8178,0,54,882.35,Potential Loyal Customers
+8179,0,103,1152.87,Loyal Customers
+8181,4,28,328.48,Potential Loyal Customers
+8198,10,19,268.23,Potential Loyal Customers
+8207,0,161,881.18,Loyal Customers
+8217,2,34,569.04,Potential Loyal Customers
+8220,0,78,354.31,Potential Loyal Customers
+8226,1,122,1038.32,Loyal Customers
+8245,3,89,370.87,Loyal Customers
+8247,2,47,820.6,Potential Loyal Customers
+8248,9,50,768.07,Potential Loyal Customers
+8251,5,44,247.07,Potential Loyal Customers
+8255,3,21,502.62,Potential Loyal Customers
+8257,0,43,529.06,Potential Loyal Customers
+8266,8,66,475.89,Potential Loyal Customers
+8270,23,6,118.88,Promising Customers
+8275,6,27,379.87,Potential Loyal Customers
+8284,0,261,3992.3,At Risk
+8287,0,92,745.38,Loyal Customers
+8294,0,41,1130.42,Potential Loyal Customers
+8299,6,35,478.89,Potential Loyal Customers
+8305,8,21,209.72,Potential Loyal Customers
+8307,4,17,364.96,Potential Loyal Customers
+8322,1,51,778.36,Potential Loyal Customers
+8325,9,24,868.67,Potential Loyal Customers
+8326,118,7,215.44,Need Attention
+8331,0,97,1592.26,Champions
+8333,0,81,815.12,Loyal Customers
+8335,3,41,447.6,Potential Loyal Customers
+8336,0,79,1053.46,Loyal Customers
+8338,4,52,1040.94,Potential Loyal Customers
+8341,28,32,220.46,Promising Customers
+8360,3,40,720.34,Potential Loyal Customers
+8371,9,81,2239.66,Champions
+8373,0,51,454.78,Potential Loyal Customers
+8377,20,17,262.83,Potential Loyal Customers
+8380,0,43,947.58,Potential Loyal Customers
+8381,1,141,443.4,Loyal Customers
+8387,2,103,860.2,Loyal Customers
+8388,17,31,304.48,Potential Loyal Customers
+8391,1,13,556.34,Potential Loyal Customers
+8392,4,76,776.69,Loyal Customers
+8407,4,58,574.51,Potential Loyal Customers
+8410,4,22,315.74,Potential Loyal Customers
+8417,0,123,1766.08,Champions
+8427,0,102,804.89,Loyal Customers
+8428,1,61,622.52,Potential Loyal Customers
+8429,18,75,789.66,Loyal Customers
+8434,0,87,1195.92,Loyal Customers
+8442,2,51,1192.7,Champions
+8450,0,33,420.08,Potential Loyal Customers
+8455,1,45,412.74,Potential Loyal Customers
+8456,4,75,375.39,Potential Loyal Customers
+8459,2,26,775.01,Potential Loyal Customers
+8461,2,69,1476.38,Champions
+8464,2,84,2415.03,Champions
+8477,7,28,403.06,Potential Loyal Customers
+8478,0,46,594.58,Potential Loyal Customers
+8485,0,67,738.76,Loyal Customers
+8488,6,49,1745.91,Champions
+8504,1,104,320.07,Loyal Customers
+8519,1,29,933.62,Potential Loyal Customers
+8520,0,219,660.49,At Risk
+8523,6,55,937.43,Potential Loyal Customers
+8536,1,47,416.26,Potential Loyal Customers
+8539,0,35,744.4,Potential Loyal Customers
+8540,2,50,568.44,Potential Loyal Customers
+8543,0,52,620.06,Potential Loyal Customers
+8548,2,41,2593.27,Champions
+8552,3,52,1100.42,Potential Loyal Customers
+8557,0,120,2107.98,Champions
+8562,0,123,1228.44,Loyal Customers
+8563,2,75,1119.15,Loyal Customers
+8564,0,95,958.35,Loyal Customers
+8567,25,10,579.73,Promising Customers
+8568,0,46,784.57,Potential Loyal Customers
+8577,17,42,309.88,Potential Loyal Customers
+8584,0,95,1541.14,Champions
+8586,1,48,507.29,Potential Loyal Customers
+8588,0,49,549.4,Potential Loyal Customers
+8606,4,27,355.61,Potential Loyal Customers
+8607,4,98,463.81,Loyal Customers
+8614,0,37,960.93,Potential Loyal Customers
+8622,0,77,654.32,Loyal Customers
+8623,49,21,704.68,Promising Customers
+8636,6,85,1020.29,Loyal Customers
+8639,1,47,332.89,Potential Loyal Customers
+8647,2,39,530.07,Potential Loyal Customers
+8657,2,84,606.82,Loyal Customers
+8660,0,121,1367.53,Champions
+8662,0,126,1471.81,Champions
+8668,0,146,1466.61,At Risk
+8673,1,93,616.45,Loyal Customers
+8677,2,51,988.89,Potential Loyal Customers
+8678,3,98,1530.32,Champions
+8680,1,55,404.37,Potential Loyal Customers
+8685,43,38,665.37,Promising Customers
+8688,4,46,1106.13,Potential Loyal Customers
+8689,2,123,2019.99,Champions
+8693,13,65,1445.71,Champions
+8694,11,26,852.82,Potential Loyal Customers
+8701,1,23,256.46,Potential Loyal Customers
+8717,1,85,1776.72,Champions
+8719,10,61,1177.63,Champions
+8720,1,63,443.5,Potential Loyal Customers
+8733,0,329,1034.17,At Risk
+8735,0,79,628.21,Loyal Customers
+8738,0,100,1743.63,Champions
+8746,4,39,465.25,Potential Loyal Customers
+8754,1,37,319.39,Potential Loyal Customers
+8756,4,61,587.5,Potential Loyal Customers
+8759,16,37,804.2,Potential Loyal Customers
+8778,0,81,1020.85,Loyal Customers
+8784,89,26,374.54,Need Attention
+8789,0,109,1191.74,Loyal Customers
+8796,3,54,587.85,Potential Loyal Customers
+8799,1,231,1319.83,At Risk
+8803,83,5,61.35,Need Attention
+8812,0,134,795.28,Loyal Customers
+8813,16,93,985.8,Loyal Customers
+8814,0,222,2769.62,At Risk
+8819,1,44,688.11,Potential Loyal Customers
+8833,0,264,1851.18,At Risk
+8836,7,51,535.01,Potential Loyal Customers
+8840,1,231,2431.7,At Risk
+8841,2,40,1537.9,Champions
+8844,8,87,872.67,Loyal Customers
+8847,6,13,294.99,Potential Loyal Customers
+8851,3,119,839.89,Loyal Customers
+8862,1,88,1560.77,Champions
+8863,1,119,894.55,Loyal Customers
+8876,16,18,418.29,Potential Loyal Customers
+8888,0,44,832.38,Potential Loyal Customers
+8893,3,54,1017.45,Potential Loyal Customers
+8909,1,36,951.67,Potential Loyal Customers
+8911,0,199,2300.17,At Risk
+8912,6,93,3764.81,Champions
+8947,2,57,534.86,Potential Loyal Customers
+8953,0,49,504.85,Potential Loyal Customers
+8966,0,94,701.53,Loyal Customers
+8968,16,78,638.75,Loyal Customers
+8972,0,97,2167.03,Champions
+8982,0,54,362.44,Potential Loyal Customers
+8987,1,106,2920.63,Champions
+8994,1,90,505.19,Loyal Customers
+8997,2,56,771.74,Potential Loyal Customers
+9001,6,35,531.22,Potential Loyal Customers
+9011,1,45,1023.32,Potential Loyal Customers
+9016,74,120,528.6,Promising Customers
+9023,4,37,262.87,Potential Loyal Customers
+9027,1,49,768.9,Potential Loyal Customers
+9030,2,86,751.24,Loyal Customers
+9042,1,77,399.33,Potential Loyal Customers
+9052,0,191,914,At Risk
+9054,4,52,663.8,Potential Loyal Customers
+9057,0,180,1109.73,At Risk
+9066,0,48,230.18,Potential Loyal Customers
+9067,1,45,434.56,Potential Loyal Customers
+9070,1,49,399.18,Potential Loyal Customers
+9076,6,116,1484.39,Champions
+9078,2,82,1278.89,Champions
+9083,0,99,717.1,Loyal Customers
+9089,0,97,621.29,Loyal Customers
+9090,1,45,360.85,Potential Loyal Customers
+9093,3,60,511.35,Potential Loyal Customers
+9097,0,54,1134.69,Champions
+9098,0,132,1294.39,Loyal Customers
+9105,110,6,257.8,Need Attention
+9110,2,85,487.45,Loyal Customers
+9112,0,38,1061.33,Potential Loyal Customers
+9118,0,57,822.37,Potential Loyal Customers
+9122,0,52,642.77,Potential Loyal Customers
+9123,17,31,347.7,Potential Loyal Customers
+9125,0,93,1088.9,Loyal Customers
+9126,2,93,633.01,Loyal Customers
+9127,1,25,415.36,Potential Loyal Customers
+9128,1,55,340,Potential Loyal Customers
+9137,0,50,636.68,Potential Loyal Customers
+9139,0,77,579.77,Loyal Customers
+9146,3,32,395.07,Potential Loyal Customers
+9154,2,82,635.5,Loyal Customers
+9157,1,45,292.79,Potential Loyal Customers
+9158,1,78,1360.02,Champions
+9164,1,119,676.42,Loyal Customers
+9190,0,94,634.42,Loyal Customers
+9191,0,62,305.75,Potential Loyal Customers
+9206,6,104,392.84,Loyal Customers
+9207,2,84,637.49,Loyal Customers
+9208,0,145,516.08,Loyal Customers
+9209,1,36,832.74,Potential Loyal Customers
+9219,0,38,2117.22,Champions
+9221,0,114,932.03,Loyal Customers
+9225,0,137,1327.05,Loyal Customers
+9230,1,24,73.59,Potential Loyal Customers
+9232,0,187,1519.12,At Risk
+9256,0,148,1010.19,Loyal Customers
+9258,5,82,432.44,Loyal Customers
+9260,0,58,2314.37,Champions
+9261,1,73,1113.54,Loyal Customers
+9264,0,42,1478.97,Champions
+9266,36,55,420.56,Promising Customers
+9269,1,75,2380.5,Champions
+9270,51,29,347.2,Promising Customers
+9271,7,55,419.16,Potential Loyal Customers
+9285,0,156,2194.71,At Risk
+9293,14,14,209.22,Potential Loyal Customers
+9295,0,68,526.35,Potential Loyal Customers
+9297,16,41,586.45,Potential Loyal Customers
+9311,30,18,705.97,Promising Customers
+9320,0,176,1310.62,At Risk
+9326,2,56,402.15,Potential Loyal Customers
+9328,0,95,1207.54,Loyal Customers
+9333,2,82,619.06,Loyal Customers
+9339,1,103,2424.25,Champions
+9342,1,184,1742.09,At Risk
+9349,0,202,2297.69,At Risk
+9362,0,67,459.06,Potential Loyal Customers
+9369,10,107,1730.47,Champions
+9374,0,23,372.64,Potential Loyal Customers
+9378,1,108,1357.4,Champions
+9380,3,105,982.73,Loyal Customers
+9382,1,126,2250.74,Champions
+9383,0,127,2268.55,Champions
+9392,0,42,534.23,Potential Loyal Customers
+9397,0,70,1913.28,Champions
+9398,0,69,920.15,Loyal Customers
+9400,4,49,707.64,Potential Loyal Customers
+9406,3,76,651.5,Loyal Customers
+9412,2,69,625.48,Potential Loyal Customers
+9419,0,77,430.79,Loyal Customers
+9420,0,18,373.4,Potential Loyal Customers
+9423,2,70,1818.45,Champions
+9424,0,55,402.82,Potential Loyal Customers
+9427,1,56,1854.66,Champions
+9435,3,57,698.31,Potential Loyal Customers
+9449,0,150,1184.28,Loyal Customers
+9458,106,39,306.27,Need Attention
+9465,2,114,1218.84,Loyal Customers
+9470,6,64,519.98,Potential Loyal Customers
+9471,1,102,612.52,Loyal Customers
+9476,0,33,465.43,Potential Loyal Customers
+9484,0,52,2107.59,Champions
+9487,2,80,446.13,Loyal Customers
+9491,1,133,994.18,Loyal Customers
+9492,1,20,444.9,Potential Loyal Customers
+9499,4,56,818.21,Potential Loyal Customers
+9501,0,112,1244.32,Loyal Customers
+9502,2,116,1417.83,Champions
+9511,2,76,1076.7,Loyal Customers
+9516,0,101,437.71,Loyal Customers
+9521,0,85,928.98,Loyal Customers
+9526,9,59,780.8,Potential Loyal Customers
+9527,1,30,697.08,Potential Loyal Customers
+9556,0,132,1363.15,Loyal Customers
+9564,1,61,1158.77,Champions
+9580,64,8,93.49,Promising Customers
+9584,2,25,566.06,Potential Loyal Customers
+9586,0,75,709.25,Loyal Customers
+9587,0,86,2683.55,Champions
+9588,1,74,608.84,Loyal Customers
+9592,0,87,1259.41,Champions
+9593,2,91,713.45,Loyal Customers
+9600,4,99,1052.42,Loyal Customers
+9602,5,60,485.44,Potential Loyal Customers
+9604,0,140,1908.45,At Risk
+9606,4,72,540.93,Potential Loyal Customers
+9608,25,123,993.54,Loyal Customers
+9611,0,143,2597.04,At Risk
+9622,100,4,66.41,Need Attention
+9624,1,127,1911.53,Champions
+9625,6,10,367.32,Potential Loyal Customers
+9634,0,77,401.44,Potential Loyal Customers
+9643,38,24,333.64,Promising Customers
+9647,138,49,450.61,Need Attention
+9655,1,104,1329.29,Champions
+9656,0,84,629.64,Loyal Customers
+9667,2,39,644.02,Potential Loyal Customers
+9675,0,293,1465.5,At Risk
+9679,0,138,1136.5,Loyal Customers
+9682,4,95,1007.78,Loyal Customers
+9699,1,210,2451.47,At Risk
+9703,1,64,983.12,Loyal Customers
+9706,0,76,1042.14,Loyal Customers
+9715,4,89,1325.86,Champions
+9718,1,83,974.29,Loyal Customers
+9727,5,39,236.59,Potential Loyal Customers
+9728,0,71,1317.11,Champions
+9729,1,90,2419.42,Champions
+9730,7,51,618.38,Potential Loyal Customers
+9735,0,132,698.97,Loyal Customers
+9740,7,28,152.34,Potential Loyal Customers
+9748,7,21,532.96,Potential Loyal Customers
+9750,2,86,750.66,Loyal Customers
+9751,7,21,694.18,Potential Loyal Customers
+9756,1,80,671.22,Loyal Customers
+9757,0,353,2412.72,At Risk
+9760,8,30,460.13,Potential Loyal Customers
+9762,0,72,383.51,Potential Loyal Customers
+9767,0,75,1692.87,Champions
+9778,0,77,1754.97,Champions
+9784,0,105,716.13,Loyal Customers
+9802,0,98,1747.23,Champions
+9807,0,43,646.26,Potential Loyal Customers
+9808,8,35,881.87,Potential Loyal Customers
+9814,1,77,708.56,Loyal Customers
+9819,1,69,1208.01,Champions
+9825,2,94,1394.82,Champions
+9836,6,27,160.05,Potential Loyal Customers
+9847,1,25,472.47,Potential Loyal Customers
+9853,1,98,500.45,Loyal Customers
+9855,9,23,627.38,Potential Loyal Customers
+9856,1,63,480.03,Potential Loyal Customers
+9863,0,38,367.1,Potential Loyal Customers
+9868,3,96,897.66,Loyal Customers
+9879,2,119,1501.49,Champions
+9886,1,90,793.39,Loyal Customers
+9902,1,64,781.74,Potential Loyal Customers
+9903,0,44,1025.47,Potential Loyal Customers
+9904,20,20,767.41,Potential Loyal Customers
+9918,0,144,1555.32,At Risk
+9927,0,247,1269.06,At Risk
+9941,15,131,1430.57,Champions
+9946,8,32,1236.09,Champions
+9948,1,94,597.99,Loyal Customers
+9949,3,81,1005.85,Loyal Customers
+9953,15,51,1009.88,Potential Loyal Customers
+9966,0,78,770.67,Loyal Customers
+9968,7,144,2468.46,At Risk
+9974,3,140,1041.27,Loyal Customers
+9975,19,267,1479.65,At Risk
+9977,9,62,966.41,Loyal Customers
+9983,49,11,194.73,Promising Customers
+9985,2,64,647.15,Potential Loyal Customers
+10000,1,161,1511.49,At Risk
+10008,0,93,1073.48,Loyal Customers
+10013,1,111,892.16,Loyal Customers
+10015,3,49,768.45,Potential Loyal Customers
+10022,0,230,2611.24,At Risk
+10023,0,102,1110.96,Loyal Customers
+10030,3,45,1216.85,Champions
+10041,42,12,378.72,Promising Customers
+10072,44,21,425.52,Promising Customers
+10086,0,43,286.69,Potential Loyal Customers
+10087,1,84,1486.08,Champions
+10093,0,67,1047.19,Loyal Customers
+10094,6,62,511.3,Potential Loyal Customers
+10098,2,82,925.02,Loyal Customers
+10107,0,46,702.47,Potential Loyal Customers
+10108,1,155,1359.91,At Risk
+10113,2,53,863.77,Potential Loyal Customers
+10114,3,40,485.51,Potential Loyal Customers
+10126,9,80,1474.1,Champions
+10127,0,20,607.93,Potential Loyal Customers
+10129,2,36,568.76,Potential Loyal Customers
+10133,2,35,419.32,Potential Loyal Customers
+10137,1,84,753.95,Loyal Customers
+10146,0,16,231.05,Potential Loyal Customers
+10153,6,46,662.77,Potential Loyal Customers
+10155,3,69,1043.62,Loyal Customers
+10159,1,47,497.41,Potential Loyal Customers
+10163,8,36,653.57,Potential Loyal Customers
+10165,1,206,1404.1,At Risk
+10168,8,98,879.74,Loyal Customers
+10172,0,147,862.98,Loyal Customers
+10174,6,70,713.32,Loyal Customers
+10176,1,36,2213.22,Champions
+10184,0,103,678.99,Loyal Customers
+10188,0,55,857.3,Potential Loyal Customers
+10189,3,48,449.01,Potential Loyal Customers
+10197,0,121,364.12,Loyal Customers
+10222,1,99,1548.47,Champions
+10223,0,150,2460.99,At Risk
+10232,7,11,209.32,Potential Loyal Customers
+10234,2,113,1195.47,Loyal Customers
+10242,4,60,600.38,Potential Loyal Customers
+10248,0,180,3789.25,At Risk
+10252,1,64,1308.29,Champions
+10256,0,91,1650.82,Champions
+10260,0,143,629.97,Loyal Customers
+10261,0,85,1301.72,Champions
+10263,4,66,953.12,Loyal Customers
+10271,0,176,1094.04,At Risk
+10275,0,25,673.19,Potential Loyal Customers
+10278,1,29,849.04,Potential Loyal Customers
+10283,3,80,859.48,Loyal Customers
+10293,2,107,1276.94,Loyal Customers
+10310,0,36,506.62,Potential Loyal Customers
+10318,8,53,699.91,Potential Loyal Customers
+10320,0,82,775.32,Loyal Customers
+10328,1,82,829.74,Loyal Customers
+10329,7,74,1108.7,Loyal Customers
+10330,15,17,404.46,Potential Loyal Customers
+10341,0,27,227.12,Potential Loyal Customers
+10342,0,175,1951.91,At Risk
+10346,4,54,617.89,Potential Loyal Customers
+10352,2,27,585.37,Potential Loyal Customers
+10355,4,111,897.44,Loyal Customers
+10357,3,66,1842.45,Champions
+10360,3,46,365.53,Potential Loyal Customers
+10363,0,104,926.17,Loyal Customers
+10365,7,55,815.5,Potential Loyal Customers
+10367,0,163,937.78,Loyal Customers
+10375,0,61,576.36,Potential Loyal Customers
+10382,0,62,476.76,Potential Loyal Customers
+10386,0,84,931.55,Loyal Customers
+10390,1,89,700.72,Loyal Customers
+10392,2,45,543.32,Potential Loyal Customers
+10396,2,87,1183.55,Loyal Customers
+10401,2,44,507.74,Potential Loyal Customers
+10408,1,67,487.57,Potential Loyal Customers
+10410,6,63,1359.05,Champions
+10419,0,33,109.87,Potential Loyal Customers
+10421,0,202,2764.74,At Risk
+10425,2,54,322.14,Potential Loyal Customers
+10426,3,48,823.64,Potential Loyal Customers
+10427,0,40,1079.55,Potential Loyal Customers
+10431,14,30,396.17,Potential Loyal Customers
+10433,11,25,683.6,Potential Loyal Customers
+10438,5,56,520.84,Potential Loyal Customers
+10443,0,98,811.44,Loyal Customers
+10447,1,76,937.46,Loyal Customers
+10450,8,28,290.44,Potential Loyal Customers
+10451,1,123,1078.75,Loyal Customers
+10476,1,115,1571.13,Champions
+10481,11,78,1243.82,Champions
+10483,4,16,874.02,Potential Loyal Customers
+10495,4,59,443.85,Potential Loyal Customers
+10505,7,15,135.19,Potential Loyal Customers
+10509,4,52,918.66,Potential Loyal Customers
+10510,0,35,523.08,Potential Loyal Customers
+10512,5,76,904.08,Loyal Customers
+10514,0,165,711.65,Loyal Customers
+10518,0,127,1089.4,Loyal Customers
+10519,15,47,614.57,Potential Loyal Customers
+10528,0,140,1436.42,Champions
+10537,0,152,1798.71,At Risk
+10538,1,48,485.2,Potential Loyal Customers
+10540,6,50,388.87,Potential Loyal Customers
+10543,1,119,1422.73,Champions
+10544,2,50,1175.05,Champions
+10549,0,112,1537.87,Champions
+10551,6,87,521.36,Loyal Customers
+10554,1,47,781.59,Potential Loyal Customers
+10557,1,32,304.97,Potential Loyal Customers
+10558,7,264,1855.89,At Risk
+10564,0,50,466.97,Potential Loyal Customers
+10570,0,87,1702.29,Champions
+10572,1,50,548.84,Potential Loyal Customers
+10587,13,28,527.56,Potential Loyal Customers
+10590,0,101,989.78,Loyal Customers
+10591,0,121,947.7,Loyal Customers
+10594,1,108,885.61,Loyal Customers
+10599,2,50,1089.34,Potential Loyal Customers
+10605,0,61,830.56,Potential Loyal Customers
+10613,30,68,438.14,Promising Customers
+10619,18,46,204.68,Potential Loyal Customers
+10628,0,63,928.68,Loyal Customers
+10635,0,53,709.87,Potential Loyal Customers
+10643,15,17,591.49,Potential Loyal Customers
+10657,0,84,1626.55,Champions
+10660,0,56,378.17,Potential Loyal Customers
+10662,2,65,639.86,Potential Loyal Customers
+10669,147,38,679.59,Need Attention
+10673,0,190,1668.34,At Risk
+10683,0,32,907.56,Potential Loyal Customers
+10689,0,82,1011.12,Loyal Customers
+10693,0,88,962.55,Loyal Customers
+10697,2,48,990.47,Potential Loyal Customers
+10700,25,11,189.72,Promising Customers
+10701,0,115,2506.35,Champions
+10703,1,48,560.14,Potential Loyal Customers
+10706,0,122,1425.28,Champions
+10707,3,57,850.98,Potential Loyal Customers
+10710,0,49,368.7,Potential Loyal Customers
+10714,0,87,1117.44,Loyal Customers
+10725,2,62,1032.22,Loyal Customers
+10728,0,96,714.38,Loyal Customers
+10732,0,43,1041.28,Potential Loyal Customers
+10740,0,120,1460.31,Champions
+10743,0,161,1925.83,At Risk
+10744,0,72,900.59,Loyal Customers
+10753,29,35,542.48,Promising Customers
+10761,0,139,1191.06,Loyal Customers
+10765,42,109,1163.49,Loyal Customers
+10767,2,27,538.06,Potential Loyal Customers
+10781,1,101,1303.38,Champions
+10786,0,71,1303.65,Champions
+10802,0,107,1441.96,Champions
+10805,2,20,353.04,Potential Loyal Customers
+10807,0,125,1594.02,Champions
+10809,0,35,469.8,Potential Loyal Customers
+10814,0,215,1426.32,At Risk
+10816,1,41,722.27,Potential Loyal Customers
+10818,2,65,1299.66,Champions
+10822,0,71,849.23,Loyal Customers
+10827,0,176,1672.5,At Risk
+10840,5,29,755.64,Potential Loyal Customers
+10847,0,106,657.74,Loyal Customers
+10856,0,93,731.08,Loyal Customers
+10862,0,56,444.7,Potential Loyal Customers
+10869,1,49,1803.61,Champions
+10873,1,96,1758.91,Champions
+10880,1,125,1050,Loyal Customers
+10885,3,86,601.83,Loyal Customers
+10891,83,65,614.56,Need Attention
+10896,2,128,875.17,Loyal Customers
+10901,73,44,209.74,Promising Customers
+10904,37,17,695.6,Promising Customers
+10908,0,136,3843.57,At Risk
+10911,0,33,998.06,Potential Loyal Customers
+10914,4,27,945.94,Potential Loyal Customers
+10918,1,21,508.55,Potential Loyal Customers
+10925,2,86,1459.2,Champions
+10928,1,46,347.77,Potential Loyal Customers
+10931,3,75,586.2,Loyal Customers
+10945,0,92,1019.16,Loyal Customers
+10950,1,61,924.19,Loyal Customers
+10958,22,122,1589.25,Champions
+10963,36,49,346.85,Promising Customers
+10965,1,75,2015.6,Champions
+10967,6,42,1404.14,Champions
+10975,10,51,631.92,Potential Loyal Customers
+10979,1,101,805.55,Loyal Customers
+10981,8,48,923.25,Potential Loyal Customers
+10985,4,28,457.77,Potential Loyal Customers
+10992,0,101,1069.9,Loyal Customers
+10999,36,108,948.17,Loyal Customers
+11002,7,49,413.34,Potential Loyal Customers
+11008,0,127,1039.23,Loyal Customers
+11026,0,197,1154.35,At Risk
+11037,0,124,1816.53,Champions
+11038,2,153,1739.1,At Risk
+11054,6,36,594.34,Potential Loyal Customers
+11057,9,20,608.72,Potential Loyal Customers
+11059,0,50,452.75,Potential Loyal Customers
+11061,29,18,381.29,Promising Customers
+11066,60,57,873.88,Promising Customers
+11068,1,60,947.74,Loyal Customers
+11069,1,63,903.99,Loyal Customers
+11071,0,104,2135.45,Champions
+11078,0,41,714.11,Potential Loyal Customers
+11080,10,70,581.62,Potential Loyal Customers
+11087,0,110,726.31,Loyal Customers
+11090,9,72,1083.52,Loyal Customers
+11103,0,23,1670.4,Champions
+11104,2,137,1423.26,Champions
+11106,0,212,3951.4,At Risk
+11108,0,97,1522.71,Champions
+11112,1,72,612.54,Loyal Customers
+11114,6,48,2272.9,Champions
+11127,1,81,2590.29,Champions
+11140,0,122,914.08,Loyal Customers
+11143,4,94,793.77,Loyal Customers
+11151,0,78,746.09,Loyal Customers
+11156,3,25,433.95,Potential Loyal Customers
+11157,0,103,758.29,Loyal Customers
+11159,1,91,573.22,Loyal Customers
+11163,0,367,3050.78,At Risk
+11164,1,58,1717.35,Champions
+11174,2,52,1293.07,Champions
+11180,1,29,579.9,Potential Loyal Customers
+11182,1,41,1124.53,Potential Loyal Customers
+11187,10,25,731.91,Potential Loyal Customers
+11190,2,41,802.29,Potential Loyal Customers
+11191,2,51,989.08,Potential Loyal Customers
+11194,0,87,1907.94,Champions
+11195,0,146,2035.4,At Risk
+11197,7,37,1458.64,Champions
+11204,1,77,1081.48,Loyal Customers
+11208,0,138,790.45,Loyal Customers
+11211,0,76,1074.74,Loyal Customers
+11221,80,37,240.85,Need Attention
+11229,1,64,886.56,Loyal Customers
+11233,1,161,2796.35,At Risk
+11242,1,54,1244.14,Champions
+11246,0,105,1397.12,Champions
+11247,1,55,634.18,Potential Loyal Customers
+11249,6,167,1416.04,At Risk
+11259,58,104,575.15,Promising Customers
+11260,3,33,200.91,Potential Loyal Customers
+11265,0,58,886.35,Potential Loyal Customers
+11268,0,126,859.39,Loyal Customers
+11280,0,143,1460.16,At Risk
+11284,0,76,944.67,Loyal Customers
+11285,0,211,2331.82,At Risk
+11286,5,88,757.95,Loyal Customers
+11288,0,52,1179.4,Champions
+11291,0,86,907.94,Loyal Customers
+11297,0,96,1846,Champions
+11298,2,43,429.59,Potential Loyal Customers
+11315,3,80,711.27,Loyal Customers
+11322,0,177,1978.46,At Risk
+11323,8,78,1301.16,Champions
+11324,0,118,478.09,Loyal Customers
+11330,1,107,746.41,Loyal Customers
+11334,6,30,822.47,Potential Loyal Customers
+11339,1,112,1349.56,Champions
+11343,0,48,415.74,Potential Loyal Customers
+11346,0,135,3200.49,At Risk
+11347,6,37,540.97,Potential Loyal Customers
+11348,0,104,1830.73,Champions
+11349,2,65,984.66,Loyal Customers
+11350,8,34,539.15,Potential Loyal Customers
+11353,1,69,1060.47,Loyal Customers
+11355,1,151,921.9,Loyal Customers
+11357,2,30,332.91,Potential Loyal Customers
+11362,0,100,906.54,Loyal Customers
+11365,20,140,2073.45,At Risk
+11368,4,130,603.55,Loyal Customers
+11379,0,140,748.61,Loyal Customers
+11381,0,179,2602.11,At Risk
+11387,12,64,697.76,Potential Loyal Customers
+11394,5,54,593.74,Potential Loyal Customers
+11400,6,66,543.54,Potential Loyal Customers
+11401,0,146,1878.08,At Risk
+11408,10,52,569.09,Potential Loyal Customers
+11420,4,41,344.72,Potential Loyal Customers
+11423,0,149,1894.26,At Risk
+11430,0,227,2516.96,At Risk
+11433,0,164,1621.31,At Risk
+11441,1,52,885.02,Potential Loyal Customers
+11454,1,40,1854.65,Champions
+11456,0,374,2869.27,At Risk
+11461,0,58,626.96,Potential Loyal Customers
+11466,2,83,2076.05,Champions
+11473,8,42,376.2,Potential Loyal Customers
+11475,0,198,4446.8,At Risk
+11476,1,119,1473.86,Champions
+11481,5,32,550.12,Potential Loyal Customers
+11500,0,113,1909.51,Champions
+11508,0,54,722.5,Potential Loyal Customers
+11509,1,27,340.92,Potential Loyal Customers
+11510,0,61,2181.41,Champions
+11511,1,82,1654.48,Champions
+11520,11,43,752.37,Potential Loyal Customers
+11524,1,52,926.4,Potential Loyal Customers
+11526,0,94,1034.78,Loyal Customers
+11528,0,207,2117.23,At Risk
+11530,0,115,3057.17,Champions
+11555,0,82,767.01,Loyal Customers
+11559,85,13,336.13,Need Attention
+11560,1,46,713.41,Potential Loyal Customers
+11563,14,71,898.08,Loyal Customers
+11565,0,28,156.61,Potential Loyal Customers
+11567,12,11,504.75,Potential Loyal Customers
+11572,17,9,304.3,Potential Loyal Customers
+11579,0,42,1726.49,Champions
+11585,8,128,2114.6,Champions
+11592,0,118,1793.09,Champions
+11596,1,30,520.67,Potential Loyal Customers
+11607,13,19,895.64,Potential Loyal Customers
+11609,6,81,690.87,Loyal Customers
+11610,1,60,279.86,Potential Loyal Customers
+11613,2,84,1876.67,Champions
+11614,0,62,975.78,Loyal Customers
+11615,0,32,470.13,Potential Loyal Customers
+11620,0,144,999.17,Loyal Customers
+11633,4,34,592.76,Potential Loyal Customers
+11634,1,54,698.54,Potential Loyal Customers
+11640,0,80,1392.85,Champions
+11641,1,132,1296.18,Loyal Customers
+11644,32,54,591.68,Promising Customers
+11649,6,18,810.44,Potential Loyal Customers
+11650,0,193,944.86,At Risk
+11651,0,107,1331.31,Champions
+11657,0,49,755.43,Potential Loyal Customers
+11658,14,35,438,Potential Loyal Customers
+11662,0,126,1663.78,Champions
+11666,0,68,606.16,Potential Loyal Customers
+11669,21,90,1558.16,Champions
+11672,1,50,572.67,Potential Loyal Customers
+11675,0,81,2871.29,Champions
+11676,44,47,1116.3,Promising Customers
+11679,0,72,561.84,Potential Loyal Customers
+11682,1,39,669.24,Potential Loyal Customers
+11695,2,87,691.78,Loyal Customers
+11701,59,9,253.93,Promising Customers
+11706,0,59,639.24,Potential Loyal Customers
+11710,3,36,377.66,Potential Loyal Customers
+11724,0,38,583.97,Potential Loyal Customers
+11728,15,34,851.67,Potential Loyal Customers
+11737,0,183,1723.03,At Risk
+11753,3,28,406.99,Potential Loyal Customers
+11761,4,75,315.92,Potential Loyal Customers
+11769,3,28,205.67,Potential Loyal Customers
+11770,9,14,246.22,Potential Loyal Customers
+11771,1,77,703.58,Loyal Customers
+11777,25,5,7.28,Promising Customers
+11784,0,82,826.07,Loyal Customers
+11790,9,11,18.36,Potential Loyal Customers
+11791,1,58,725.16,Potential Loyal Customers
+11796,6,45,371.62,Potential Loyal Customers
+11798,3,42,473.99,Potential Loyal Customers
+11801,7,49,447.76,Potential Loyal Customers
+11803,100,9,140.55,Need Attention
+11808,6,18,94.19,Potential Loyal Customers
+11816,155,4,71.45,Need Attention
+11825,3,16,52.59,Potential Loyal Customers
+11830,0,65,330.21,Potential Loyal Customers
+11834,153,2,55.02,Need Attention
+11835,7,38,567.73,Potential Loyal Customers
+11843,0,100,255.63,Loyal Customers
+11844,4,19,77.63,Potential Loyal Customers
+11845,1,68,762.5,Loyal Customers
+11846,25,14,119.31,Promising Customers
+11861,0,20,122.8,Potential Loyal Customers
+11868,150,5,66.92,Need Attention
+11878,8,37,347.77,Potential Loyal Customers
+11885,0,266,883.65,At Risk
+11886,57,38,448.15,Promising Customers
+11889,1,61,420.25,Potential Loyal Customers
+11894,58,10,90.46,Promising Customers
+11895,43,20,186.22,Promising Customers
+11896,0,57,1028.34,Loyal Customers
+11905,3,35,232.58,Potential Loyal Customers
+11911,0,83,546.41,Loyal Customers
+11919,0,44,354.34,Potential Loyal Customers
+11926,142,6,72.14,Need Attention
+11927,3,35,248.05,Potential Loyal Customers
+11936,0,55,352.19,Potential Loyal Customers
+11937,2,57,404.05,Potential Loyal Customers
+11943,7,9,94.36,Potential Loyal Customers
+11951,2,110,325.83,Loyal Customers
+11954,10,16,82.99,Potential Loyal Customers
+11956,34,13,84.27,Promising Customers
+11957,0,37,456.35,Potential Loyal Customers
+11960,1,56,253.14,Potential Loyal Customers
+11967,0,39,294.23,Potential Loyal Customers
+11971,1,33,383.6,Potential Loyal Customers
+11974,2,35,447.25,Potential Loyal Customers
+11981,6,56,691.95,Potential Loyal Customers
+11988,24,14,150.03,Promising Customers
+11990,1,42,496.33,Potential Loyal Customers
+12000,64,13,184.05,Promising Customers
+12008,0,95,825.27,Loyal Customers
+12014,3,78,467.31,Loyal Customers
+12016,3,102,949.31,Loyal Customers
+12019,7,35,514.31,Potential Loyal Customers
+12020,0,55,553.04,Potential Loyal Customers
+12027,1,45,542.51,Potential Loyal Customers
+12031,13,26,451.03,Potential Loyal Customers
+12038,0,46,1045.5,Potential Loyal Customers
+12043,0,248,1720.76,At Risk
+12047,2,65,539.85,Potential Loyal Customers
+12055,2,20,1148.8,Potential Loyal Customers
+12058,0,35,525.13,Potential Loyal Customers
+12075,121,14,140.42,Need Attention
+12076,6,29,394.91,Potential Loyal Customers
+12077,2,82,862.85,Loyal Customers
+12084,1,19,357.22,Potential Loyal Customers
+12091,0,44,263.8,Potential Loyal Customers
+12095,6,19,283.11,Potential Loyal Customers
+12097,0,90,1338.81,Champions
+12103,1,33,744.38,Potential Loyal Customers
+12110,4,35,501.81,Potential Loyal Customers
+12114,10,45,330.44,Potential Loyal Customers
+12120,3,80,425.09,Loyal Customers
+12128,2,24,317.95,Potential Loyal Customers
+12130,4,129,1603.14,Champions
+12135,4,41,512.57,Potential Loyal Customers
+12137,20,26,288.76,Potential Loyal Customers
+12139,1,85,725.94,Loyal Customers
+12147,0,21,467.75,Potential Loyal Customers
+12149,13,32,403.68,Potential Loyal Customers
+12153,0,14,126.42,Potential Loyal Customers
+12156,0,129,750.29,Loyal Customers
+12158,0,50,422.06,Potential Loyal Customers
+12159,1,31,419.68,Potential Loyal Customers
+12170,0,163,964.47,Loyal Customers
+12171,0,63,684.87,Potential Loyal Customers
+12182,0,52,406.72,Potential Loyal Customers
+12183,2,95,713.9,Loyal Customers
+12188,3,43,677.8,Potential Loyal Customers
+12189,56,74,1536.3,Promising Customers
+12195,1,35,650.72,Potential Loyal Customers
+12198,61,7,68.6,Promising Customers
+12201,147,2,70.16,Need Attention
+12202,2,31,422.38,Potential Loyal Customers
+12212,0,107,474.61,Loyal Customers
+12215,9,50,342.67,Potential Loyal Customers
+12218,7,85,768.51,Loyal Customers
+12221,4,48,1196.73,Champions
+12227,7,60,724.39,Potential Loyal Customers
+12230,0,95,1636.5,Champions
+12234,15,7,90.61,Potential Loyal Customers
+12237,1,106,346.04,Loyal Customers
+12245,4,20,207.67,Potential Loyal Customers
+12264,6,14,410.87,Potential Loyal Customers
+12266,86,20,157.94,Need Attention
+12269,0,54,896.7,Potential Loyal Customers
+12271,0,28,1095.57,Potential Loyal Customers
+12276,1,197,1775.63,At Risk
+12277,7,18,627.75,Potential Loyal Customers
+12286,15,60,414.43,Potential Loyal Customers
+12310,17,45,515.2,Potential Loyal Customers
+12323,7,45,666.31,Potential Loyal Customers
+12329,0,238,1035,At Risk
+12331,4,59,618.93,Potential Loyal Customers
+12338,1,26,534.17,Potential Loyal Customers
+12339,3,66,445.25,Potential Loyal Customers
+12344,0,36,725.77,Potential Loyal Customers
+12345,39,7,115.1,Promising Customers
+12346,6,21,997.04,Potential Loyal Customers
+12356,122,8,87,Need Attention
+12357,0,39,1583.09,Champions
+12360,9,37,429.56,Potential Loyal Customers
+12361,0,46,339.21,Potential Loyal Customers
+12363,0,63,269,Potential Loyal Customers
+12372,1,70,696.42,Loyal Customers
+12379,10,24,609.36,Potential Loyal Customers
+12391,1,81,504.16,Loyal Customers
+12393,32,41,959.59,Promising Customers
+12394,1,23,338.46,Potential Loyal Customers
+12398,3,28,455.7,Potential Loyal Customers
+12401,4,42,558.16,Potential Loyal Customers
+12409,0,42,258.24,Potential Loyal Customers
+12412,0,34,495.06,Potential Loyal Customers
+12419,0,80,376.53,Loyal Customers
+12422,7,27,557.3,Potential Loyal Customers
+12432,7,75,1000.86,Loyal Customers
+12434,0,86,731.09,Loyal Customers
+12437,9,15,523.1,Potential Loyal Customers
+12440,6,28,359.26,Potential Loyal Customers
+12443,2,35,401.4,Potential Loyal Customers
+12450,4,83,573.15,Loyal Customers
+12452,2,39,759.27,Potential Loyal Customers
+12453,101,38,329.53,Need Attention
+12467,1,25,80.58,Potential Loyal Customers
+12473,8,10,418.61,Potential Loyal Customers
+12474,2,30,241.89,Potential Loyal Customers
+12476,5,40,616.57,Potential Loyal Customers
+12480,134,9,558.2,Need Attention
+12482,1,44,414.47,Potential Loyal Customers
+12483,1,12,285.57,Potential Loyal Customers
+12485,8,26,533.74,Potential Loyal Customers
+12489,0,149,713.64,Loyal Customers
+12490,11,17,190.77,Potential Loyal Customers
+12508,3,46,322.98,Potential Loyal Customers
+12510,2,26,342.82,Potential Loyal Customers
+12511,1,57,397.94,Potential Loyal Customers
+12517,2,47,505.22,Potential Loyal Customers
+12520,1,77,312.17,Potential Loyal Customers
+12522,7,23,446.11,Potential Loyal Customers
+12523,0,50,943.12,Potential Loyal Customers
+12530,7,14,928.01,Potential Loyal Customers
+12537,2,57,609.98,Potential Loyal Customers
+12538,2,27,193.48,Potential Loyal Customers
+12541,6,82,800.43,Loyal Customers
+12545,0,146,1558.85,At Risk
+12548,16,19,634.35,Potential Loyal Customers
+12550,0,26,459.48,Potential Loyal Customers
+12557,3,67,1852.91,Champions
+12562,25,7,183.27,Promising Customers
+12563,8,18,251.01,Potential Loyal Customers
+12569,3,38,1429.72,Champions
+12570,10,20,701.7,Potential Loyal Customers
+12573,7,12,315.77,Potential Loyal Customers
+12574,1,80,777.49,Loyal Customers
+12576,1,43,248.98,Potential Loyal Customers
+12596,0,34,404.9,Potential Loyal Customers
+12598,1,56,620.03,Potential Loyal Customers
+12606,2,71,623.55,Loyal Customers
+12611,1,94,512.6,Loyal Customers
+12613,2,57,346.9,Potential Loyal Customers
+12616,2,43,446.74,Potential Loyal Customers
+12618,10,22,839.88,Potential Loyal Customers
+12628,0,57,819.58,Potential Loyal Customers
+12635,1,34,770.97,Potential Loyal Customers
+12640,8,28,354.48,Potential Loyal Customers
+12641,15,56,1007.27,Potential Loyal Customers
+12644,2,26,339.94,Potential Loyal Customers
+12647,2,72,684.57,Loyal Customers
+12650,149,7,131.78,Need Attention
+12657,36,9,439.4,Promising Customers
+12668,13,56,1310.12,Champions
+12675,64,13,206.65,Promising Customers
+12682,0,41,753.6,Potential Loyal Customers
+12687,3,132,1218.95,Loyal Customers
+12693,51,107,655.87,Promising Customers
+12703,7,57,762.04,Potential Loyal Customers
+12705,3,21,1078.31,Potential Loyal Customers
+12707,4,21,271.63,Potential Loyal Customers
+12711,16,50,390.5,Potential Loyal Customers
+12719,0,27,1120.64,Potential Loyal Customers
+12721,34,13,162.69,Promising Customers
+12731,2,45,375.7,Potential Loyal Customers
+12733,3,56,550.72,Potential Loyal Customers
+12735,1,72,452.87,Potential Loyal Customers
+12738,0,59,573.47,Potential Loyal Customers
+12739,3,51,418.04,Potential Loyal Customers
+12744,0,44,1397.35,Champions
+12746,7,80,463.96,Loyal Customers
+12753,82,56,638.39,Need Attention
+12766,0,56,387.99,Potential Loyal Customers
+12771,1,87,335.36,Loyal Customers
+12778,3,24,435.38,Potential Loyal Customers
+12792,1,37,512.1,Potential Loyal Customers
+12796,2,12,1831.46,Champions
+12798,14,13,252.79,Potential Loyal Customers
+12800,6,53,975.56,Potential Loyal Customers
+12816,7,37,647.56,Potential Loyal Customers
+12825,27,30,260.97,Promising Customers
+12828,1,98,525.82,Loyal Customers
+12829,0,54,389.22,Potential Loyal Customers
+12831,7,25,368.67,Potential Loyal Customers
+12834,10,31,1520.59,Champions
+12838,6,38,763.13,Potential Loyal Customers
+12844,1,49,415.59,Potential Loyal Customers
+12846,1,71,755.16,Loyal Customers
+12847,29,10,96.75,Promising Customers
+12852,13,18,173.93,Potential Loyal Customers
+12855,0,28,862.26,Potential Loyal Customers
+12861,6,26,808.05,Potential Loyal Customers
+12862,73,5,233.39,Promising Customers
+12863,33,8,268.23,Promising Customers
+12865,0,30,732.67,Potential Loyal Customers
+12872,109,12,122.16,Need Attention
+12874,73,21,569.38,Promising Customers
+12875,6,20,249.86,Potential Loyal Customers
+12883,40,7,195.46,Promising Customers
+12886,0,45,652.69,Potential Loyal Customers
+12889,25,10,281.26,Promising Customers
+12901,2,72,484.72,Potential Loyal Customers
+12915,10,24,558.1,Potential Loyal Customers
+12917,4,59,518.08,Potential Loyal Customers
+12920,18,17,251.8,Potential Loyal Customers
+12922,19,23,343.15,Potential Loyal Customers
+12925,8,30,806.35,Potential Loyal Customers
+12930,0,122,641.05,Loyal Customers
+12934,5,38,252.59,Potential Loyal Customers
+12935,4,35,498.16,Potential Loyal Customers
+12945,3,28,352.41,Potential Loyal Customers
+12946,1,73,1145.1,Loyal Customers
+12950,48,7,146.27,Promising Customers
+12964,11,7,226.84,Potential Loyal Customers
+12968,1,50,521.76,Potential Loyal Customers
+12969,21,7,200.65,Promising Customers
+12973,2,45,814.1,Potential Loyal Customers
+12978,2,35,907.16,Potential Loyal Customers
+12981,15,86,1029.29,Loyal Customers
+12993,1,42,557.86,Potential Loyal Customers
+13002,1,78,309.81,Potential Loyal Customers
+13006,10,26,828.42,Potential Loyal Customers
+13017,164,1,63.75,Need Attention
+13029,0,70,814.88,Loyal Customers
+13031,24,21,499.91,Promising Customers
+13034,4,24,563.65,Potential Loyal Customers
+13038,115,8,166.83,Need Attention
+13041,0,89,697.47,Loyal Customers
+13047,0,50,291.87,Potential Loyal Customers
+13048,141,14,154.6,Need Attention
+13056,0,72,752.16,Loyal Customers
+13057,0,145,735.37,Loyal Customers
+13060,0,98,775.43,Loyal Customers
+13069,96,7,186.76,Need Attention
+13072,0,53,641.32,Potential Loyal Customers
+13086,3,49,700.93,Potential Loyal Customers
+13090,2,54,875.39,Potential Loyal Customers
+13095,7,47,655.9,Potential Loyal Customers
+13099,3,21,138.29,Potential Loyal Customers
+13101,0,80,403.56,Loyal Customers
+13109,2,28,1072.74,Potential Loyal Customers
+13111,3,17,415.13,Potential Loyal Customers
+13118,0,127,886.6,Loyal Customers
+13122,3,41,814.74,Potential Loyal Customers
+13131,1,72,1011.82,Loyal Customers
+13138,1,26,359.07,Potential Loyal Customers
+13143,0,83,492.18,Loyal Customers
+13147,0,62,552.8,Potential Loyal Customers
+13148,0,126,809.69,Loyal Customers
+13161,2,23,478.75,Potential Loyal Customers
+13165,1,81,1005.3,Loyal Customers
+13166,3,54,924.89,Potential Loyal Customers
+13169,6,39,234.18,Potential Loyal Customers
+13181,42,45,558.32,Promising Customers
+13182,118,42,272.47,Need Attention
+13188,11,18,671.14,Potential Loyal Customers
+13189,1,27,739.38,Potential Loyal Customers
+13201,1,95,792.69,Loyal Customers
+13205,1,123,839.54,Loyal Customers
+13206,0,137,656.31,Loyal Customers
+13210,24,9,417.82,Promising Customers
+13211,1,58,722.22,Potential Loyal Customers
+13218,1,24,786.92,Potential Loyal Customers
+13227,0,17,414.08,Potential Loyal Customers
+13238,10,38,1016.46,Potential Loyal Customers
+13250,0,57,246.31,Potential Loyal Customers
+13253,58,5,208.42,Promising Customers
+13254,163,4,57.27,Need Attention
+13266,6,33,1099.13,Potential Loyal Customers
+13268,6,33,517.75,Potential Loyal Customers
+13270,1,77,527.65,Loyal Customers
+13274,18,22,167.84,Potential Loyal Customers
+13275,2,29,350.8,Potential Loyal Customers
+13277,5,25,768.22,Potential Loyal Customers
+13281,23,10,243.59,Promising Customers
+13301,6,28,531.11,Potential Loyal Customers
+13307,0,42,547.13,Potential Loyal Customers
+13316,0,80,503.62,Loyal Customers
+13323,18,10,539.71,Potential Loyal Customers
+13334,0,106,1831.24,Champions
+13339,2,32,1079.88,Potential Loyal Customers
+13340,132,8,453.38,Need Attention
+13366,2,37,773.8,Potential Loyal Customers
+13367,13,34,368.53,Potential Loyal Customers
+13368,2,39,398.76,Potential Loyal Customers
+13370,5,9,202.31,Potential Loyal Customers
+13374,0,93,472.4,Loyal Customers
+13376,4,66,494.28,Potential Loyal Customers
+13378,0,110,472.06,Loyal Customers
+13380,5,15,262.89,Potential Loyal Customers
+13391,2,66,872.77,Loyal Customers
+13394,0,59,569.49,Potential Loyal Customers
+13397,1,27,922.2,Potential Loyal Customers
+13405,4,29,265.18,Potential Loyal Customers
+13409,16,50,1888.64,Champions
+13412,30,129,932.08,Loyal Customers
+13419,2,14,176.82,Potential Loyal Customers
+13420,3,37,596.99,Potential Loyal Customers
+13427,2,26,509.91,Potential Loyal Customers
+13429,2,112,530.95,Loyal Customers
+13431,1,170,1061.25,Loyal Customers
+13432,7,42,236.46,Potential Loyal Customers
+13441,2,72,1152.18,Loyal Customers
+13449,55,14,189.09,Promising Customers
+13454,0,45,738.58,Potential Loyal Customers
+13456,0,24,899.63,Potential Loyal Customers
+13468,11,15,220.29,Potential Loyal Customers
+13470,2,52,635.9,Potential Loyal Customers
+13476,32,19,170.56,Promising Customers
+13502,3,10,405.73,Potential Loyal Customers
+13504,3,131,1267.86,Loyal Customers
+13508,3,26,905.22,Potential Loyal Customers
+13517,1,28,461.39,Potential Loyal Customers
+13531,3,20,258.53,Potential Loyal Customers
+13535,35,17,183.91,Promising Customers
+13536,6,25,413.01,Potential Loyal Customers
+13537,3,40,496.64,Potential Loyal Customers
+13545,23,10,39.68,Promising Customers
+13550,2,46,528.72,Potential Loyal Customers
+13551,0,10,103.24,Potential Loyal Customers
+13564,37,24,233.66,Promising Customers
+13572,0,129,1294,Loyal Customers
+13580,0,83,614.94,Loyal Customers
+13588,8,33,325.68,Potential Loyal Customers
+13600,1,30,380.52,Potential Loyal Customers
+13601,1,74,1333.94,Champions
+13605,61,20,329.74,Promising Customers
+13606,0,82,599.77,Loyal Customers
+13607,0,96,618.34,Loyal Customers
+13618,5,31,1188.9,Potential Loyal Customers
+13634,0,116,1262.48,Loyal Customers
+13637,0,65,563.07,Potential Loyal Customers
+13639,1,136,1912.55,At Risk
+13655,0,26,1092.24,Potential Loyal Customers
+13659,20,39,305.9,Potential Loyal Customers
+13667,0,20,305.22,Potential Loyal Customers
+13682,0,25,875.34,Potential Loyal Customers
+13684,9,87,640.71,Loyal Customers
+13694,0,23,321.06,Potential Loyal Customers
+13695,6,9,336.58,Potential Loyal Customers
+13696,3,24,469.05,Potential Loyal Customers
+13698,1,19,371.01,Potential Loyal Customers
+13699,6,57,1310.11,Champions
+13700,0,129,657.35,Loyal Customers
+13710,0,53,492.46,Potential Loyal Customers
+13713,3,48,617.87,Potential Loyal Customers
+13718,11,41,518.26,Potential Loyal Customers
+13723,0,80,735.07,Loyal Customers
+13726,1,27,324.12,Potential Loyal Customers
+13727,1,28,1212.26,Potential Loyal Customers
+13730,1,80,853.4,Loyal Customers
+13736,6,41,612.92,Potential Loyal Customers
+13737,36,13,243.2,Promising Customers
+13739,32,7,248.51,Promising Customers
+13745,0,203,872.73,At Risk
+13757,54,39,755.75,Promising Customers
+13775,3,17,308.48,Potential Loyal Customers
+13776,0,64,549.92,Potential Loyal Customers
+13793,1,249,6588.65,At Risk
+13801,7,56,1084.73,Loyal Customers
+13804,0,31,1249.49,Champions
+13806,0,108,1135.42,Loyal Customers
+13807,21,30,197.89,Potential Loyal Customers
+13826,0,29,364.39,Potential Loyal Customers
+13849,15,12,493.59,Potential Loyal Customers
+13850,3,56,389.15,Potential Loyal Customers
+13852,11,7,422.18,Potential Loyal Customers
+13868,6,15,555.66,Potential Loyal Customers
+13874,24,6,129.77,Promising Customers
+13879,1,96,607.71,Loyal Customers
+13888,1,40,609.18,Potential Loyal Customers
+13889,1,60,665.59,Potential Loyal Customers
+13895,94,10,102.54,Need Attention
+13900,0,71,683.79,Loyal Customers
+13903,5,85,371.91,Loyal Customers
+13906,5,26,296.06,Potential Loyal Customers
+13908,1,67,914.84,Loyal Customers
+13913,13,110,1096.33,Loyal Customers
+13921,1,14,605.85,Potential Loyal Customers
+13925,4,59,1208.38,Champions
+13928,4,42,455.88,Potential Loyal Customers
+13932,0,100,812.3,Loyal Customers
+13935,15,22,444.97,Potential Loyal Customers
+13936,1,41,596.74,Potential Loyal Customers
+13939,30,45,308.61,Promising Customers
+13946,6,78,1001.8,Loyal Customers
+13962,9,112,675.57,Loyal Customers
+13967,2,23,117.51,Potential Loyal Customers
+13969,2,22,552.72,Potential Loyal Customers
+13972,0,63,416.93,Potential Loyal Customers
+13975,1,35,569.53,Potential Loyal Customers
+13981,6,58,811.56,Potential Loyal Customers
+13985,4,49,331.51,Potential Loyal Customers
+13995,2,41,530.4,Potential Loyal Customers
+14000,0,94,333.82,Loyal Customers
+14011,2,26,332.19,Potential Loyal Customers
+14014,1,35,1515.44,Champions
+14021,11,30,429.77,Potential Loyal Customers
+14027,6,44,753.01,Potential Loyal Customers
+14037,51,4,187.76,Promising Customers
+14051,2,33,458.25,Potential Loyal Customers
+14057,4,49,523.58,Potential Loyal Customers
+14060,3,32,519.13,Potential Loyal Customers
+14085,2,53,507.95,Potential Loyal Customers
+14086,7,28,477.89,Potential Loyal Customers
+14095,23,93,776.82,Loyal Customers
+14096,2,13,550.12,Potential Loyal Customers
+14104,3,26,894.12,Potential Loyal Customers
+14105,0,40,731.87,Potential Loyal Customers
+14111,0,23,353.87,Potential Loyal Customers
+14122,1,22,1061.92,Potential Loyal Customers
+14127,11,28,586.55,Potential Loyal Customers
+14130,1,145,1605.71,At Risk
+14132,0,85,1378.47,Champions
+14135,1,25,248.55,Potential Loyal Customers
+14138,49,10,315,Promising Customers
+14139,3,52,544.4,Potential Loyal Customers
+14144,8,36,612.06,Potential Loyal Customers
+14146,0,91,711.19,Loyal Customers
+14148,148,1,48.83,Need Attention
+14154,1,27,517.87,Potential Loyal Customers
+14159,0,16,414.7,Potential Loyal Customers
+14177,0,75,1394.31,Champions
+14183,0,55,435.14,Potential Loyal Customers
+14192,2,96,619.61,Loyal Customers
+14196,1,29,680.71,Potential Loyal Customers
+14197,5,40,360.23,Potential Loyal Customers
+14203,0,82,758.41,Loyal Customers
+14213,0,52,768.64,Potential Loyal Customers
+14216,0,63,788.58,Potential Loyal Customers
+14219,1,77,524.63,Loyal Customers
+14221,6,27,933.25,Potential Loyal Customers
+14233,1,32,693.21,Potential Loyal Customers
+14239,0,15,287.19,Potential Loyal Customers
+14240,2,33,481.28,Potential Loyal Customers
+14251,2,46,634.3,Potential Loyal Customers
+14253,0,76,1492.15,Champions
+14257,2,26,898.35,Potential Loyal Customers
+14260,85,11,386.73,Need Attention
+14279,0,8,298.45,Potential Loyal Customers
+14282,6,24,1405.01,Champions
+14283,3,25,430.87,Potential Loyal Customers
+14297,0,42,893.54,Potential Loyal Customers
+14302,2,20,236.17,Potential Loyal Customers
+14309,1,95,600.58,Loyal Customers
+14326,1,78,637.94,Loyal Customers
+14329,0,156,563.62,Loyal Customers
+14335,2,46,758.66,Potential Loyal Customers
+14343,0,23,180.36,Potential Loyal Customers
+14351,3,38,530.47,Potential Loyal Customers
+14353,0,27,651.69,Potential Loyal Customers
+14361,0,185,700.84,Loyal Customers
+14375,7,19,145,Potential Loyal Customers
+14377,3,64,320.44,Potential Loyal Customers
+14381,16,140,622.77,Loyal Customers
+14389,17,53,421.18,Potential Loyal Customers
+14398,7,33,234.89,Potential Loyal Customers
+14407,3,15,199.02,Potential Loyal Customers
+14409,3,28,689.8,Potential Loyal Customers
+14412,96,14,193.27,Need Attention
+14427,6,38,766.43,Potential Loyal Customers
+14428,2,29,541.97,Potential Loyal Customers
+14442,6,30,607.05,Potential Loyal Customers
+14444,0,58,622.47,Potential Loyal Customers
+14445,57,9,250.02,Promising Customers
+14446,1,58,527.07,Potential Loyal Customers
+14459,3,48,473.88,Potential Loyal Customers
+14464,1,32,250.08,Potential Loyal Customers
+14481,2,34,455.27,Potential Loyal Customers
+14495,0,49,372.52,Potential Loyal Customers
+14496,4,25,177.96,Potential Loyal Customers
+14500,0,165,496.49,Loyal Customers
+14503,2,40,476.13,Potential Loyal Customers
+14506,5,58,202.12,Potential Loyal Customers
+14515,3,85,294.38,Loyal Customers
+14528,0,179,890.51,Loyal Customers
+14538,7,98,570.24,Loyal Customers
+14539,0,80,1776.97,Champions
+14543,0,171,1065.5,Loyal Customers
+14545,3,31,387.27,Potential Loyal Customers
+14549,4,11,164.72,Potential Loyal Customers
+14554,134,9,103.57,Need Attention
+14555,0,86,1339.34,Champions
+14556,1,70,875.72,Loyal Customers
+14559,1,59,718.39,Potential Loyal Customers
+14566,2,32,873.58,Potential Loyal Customers
+14568,1,8,274.31,Potential Loyal Customers
+14573,3,41,679.88,Potential Loyal Customers
+14575,67,6,73.65,Promising Customers
+14577,2,87,530.93,Loyal Customers
+14586,1,118,363.32,Loyal Customers
+14595,0,32,227.4,Potential Loyal Customers
+14597,15,8,102.38,Potential Loyal Customers
+14610,0,19,200.17,Potential Loyal Customers
+14612,2,123,1750.51,Champions
+14613,2,33,281.07,Potential Loyal Customers
+14620,0,92,822.91,Loyal Customers
+14621,7,90,524.45,Loyal Customers
+14633,1,48,504.1,Potential Loyal Customers
+14635,2,12,473.13,Potential Loyal Customers
+14656,13,30,156.28,Potential Loyal Customers
+14663,0,65,351.75,Potential Loyal Customers
+14666,3,25,1021.99,Potential Loyal Customers
+14668,0,50,606.26,Potential Loyal Customers
+14670,0,42,238.94,Potential Loyal Customers
+14671,0,30,1062.25,Potential Loyal Customers
+14674,1,43,646.21,Potential Loyal Customers
+14678,30,7,113.96,Promising Customers
+14680,3,38,584.22,Potential Loyal Customers
+14695,0,70,555.59,Potential Loyal Customers
+14700,3,48,949.22,Potential Loyal Customers
+14706,0,21,299.32,Potential Loyal Customers
+14711,2,22,856.86,Potential Loyal Customers
+14713,2,39,493.24,Potential Loyal Customers
+14716,9,35,581.98,Potential Loyal Customers
+14719,0,172,1288.26,At Risk
+14723,0,23,355.92,Potential Loyal Customers
+14727,61,11,109.47,Promising Customers
+14728,0,117,714.14,Loyal Customers
+14734,44,90,663.45,Promising Customers
+14737,0,163,1555.35,At Risk
+14741,1,35,235.87,Potential Loyal Customers
+14761,0,100,348.71,Loyal Customers
+14768,0,47,428.16,Potential Loyal Customers
+14770,0,86,755.1,Loyal Customers
+14778,2,61,299.82,Potential Loyal Customers
+14780,30,13,164.6,Promising Customers
+14782,7,104,742.54,Loyal Customers
+14784,14,43,316.76,Potential Loyal Customers
+14790,7,12,482.31,Potential Loyal Customers
+14797,1,148,1208.66,Loyal Customers
+14801,1,52,777.13,Potential Loyal Customers
+14805,4,45,443.35,Potential Loyal Customers
+14806,2,77,547.32,Loyal Customers
+14817,6,60,470.43,Potential Loyal Customers
+14819,34,28,137.27,Promising Customers
+14825,1,57,827.18,Potential Loyal Customers
+14828,0,6,370.98,Potential Loyal Customers
+14834,2,40,371.17,Potential Loyal Customers
+14837,18,29,697.34,Potential Loyal Customers
+14839,108,16,228.63,Need Attention
+14846,0,105,1344.52,Champions
+14848,1,63,646.88,Potential Loyal Customers
+14866,1,41,463.64,Potential Loyal Customers
+14870,0,54,477.8,Potential Loyal Customers
+14871,118,13,111.76,Need Attention
+14872,38,10,245.51,Promising Customers
+14880,0,78,691.53,Loyal Customers
+14881,6,30,320.11,Potential Loyal Customers
+14885,37,13,93.1,Promising Customers
+14887,29,13,372.57,Promising Customers
+14891,7,35,591.2,Potential Loyal Customers
+14893,0,156,1426.47,At Risk
+14907,6,56,407.03,Potential Loyal Customers
+14909,53,9,92.16,Promising Customers
+14910,6,26,384.97,Potential Loyal Customers
+14920,6,7,80.14,Potential Loyal Customers
+14922,55,3,129.85,Promising Customers
+14931,0,116,890.19,Loyal Customers
+14932,2,50,766.66,Potential Loyal Customers
+14951,2,43,719.15,Potential Loyal Customers
+14962,0,20,300.24,Potential Loyal Customers
+14963,0,35,264.19,Potential Loyal Customers
+14967,0,180,2000.22,At Risk
+14974,0,50,399.03,Potential Loyal Customers
+14976,2,52,506.23,Potential Loyal Customers
+14979,16,15,192.58,Potential Loyal Customers
+14982,0,49,200.68,Potential Loyal Customers
+14984,11,33,202.74,Potential Loyal Customers
+14995,7,51,559.3,Potential Loyal Customers
+14998,5,35,218.99,Potential Loyal Customers
+14999,0,62,699.67,Potential Loyal Customers
+15003,42,105,491.95,Promising Customers
+15016,1,9,174.6,Potential Loyal Customers
+15018,6,57,420.15,Potential Loyal Customers
+15019,41,12,275,Promising Customers
+15022,3,42,2407.45,Champions
+15024,2,47,656.84,Potential Loyal Customers
+15035,3,21,317.73,Potential Loyal Customers
+15059,5,29,379.94,Potential Loyal Customers
+15068,4,86,642.16,Loyal Customers
+15070,1,20,558.65,Potential Loyal Customers
+15076,0,116,817.12,Loyal Customers
+15091,60,8,92.96,Promising Customers
+15114,0,171,1490.88,At Risk
+15118,6,29,356.32,Potential Loyal Customers
+15125,8,22,214.07,Potential Loyal Customers
+15135,0,175,1404.64,At Risk
+15142,0,66,615.9,Potential Loyal Customers
+15144,0,105,588.53,Loyal Customers
+15145,2,42,366.26,Potential Loyal Customers
+15150,1,107,1613.41,Champions
+15160,0,90,390.68,Loyal Customers
+15167,1,51,524.31,Potential Loyal Customers
+15177,0,80,583.97,Loyal Customers
+15191,0,50,841.47,Potential Loyal Customers
+15196,7,24,135.77,Potential Loyal Customers
+15197,0,35,483.32,Potential Loyal Customers
+15203,2,76,594.67,Loyal Customers
+15215,0,54,266.67,Potential Loyal Customers
+15217,1,142,969.24,Loyal Customers
+15221,53,9,231.1,Promising Customers
+15227,138,12,94.51,Need Attention
+15234,2,34,319.05,Potential Loyal Customers
+15239,39,8,138.21,Promising Customers
+15240,52,10,61.28,Promising Customers
+15245,10,71,312.94,Potential Loyal Customers
+15249,0,135,1439.05,Champions
+15259,1,72,590.84,Loyal Customers
+15262,1,54,296.59,Potential Loyal Customers
+15263,59,53,420.7,Promising Customers
+15265,8,55,612.69,Potential Loyal Customers
+15268,2,7,153.91,Potential Loyal Customers
+15270,1,36,686.14,Potential Loyal Customers
+15274,2,82,1136.63,Loyal Customers
+15276,1,21,228.55,Potential Loyal Customers
+15280,2,53,507.07,Potential Loyal Customers
+15282,1,33,297.68,Potential Loyal Customers
+15284,6,34,723.87,Potential Loyal Customers
+15294,0,34,466.47,Potential Loyal Customers
+15302,1,53,1476.32,Champions
+15308,0,68,406.25,Potential Loyal Customers
+15310,0,52,375.42,Potential Loyal Customers
+15311,4,32,344.89,Potential Loyal Customers
+15316,6,88,880.65,Loyal Customers
+15328,130,17,169.4,Need Attention
+15335,3,39,368.88,Potential Loyal Customers
+15339,1,60,309.74,Potential Loyal Customers
+15344,0,48,431.11,Potential Loyal Customers
+15347,0,61,480.98,Potential Loyal Customers
+15354,0,99,1160.95,Loyal Customers
+15365,13,7,115.21,Potential Loyal Customers
+15371,2,23,264.44,Potential Loyal Customers
+15373,0,52,547.56,Potential Loyal Customers
+15391,0,102,835.77,Loyal Customers
+15394,3,16,94.54,Potential Loyal Customers
+15403,2,48,753.63,Potential Loyal Customers
+15407,4,27,262.98,Potential Loyal Customers
+15412,8,30,462.08,Potential Loyal Customers
+15414,13,26,431.93,Potential Loyal Customers
+15419,1,86,685.04,Loyal Customers
+15426,0,119,1625.86,Champions
+15439,3,27,370.59,Potential Loyal Customers
+15447,2,35,322.96,Potential Loyal Customers
+15449,56,11,80.34,Promising Customers
+15455,1,63,370.14,Potential Loyal Customers
+15458,8,6,30.23,Potential Loyal Customers
+15459,23,20,143.93,Promising Customers
+15463,2,14,192.04,Potential Loyal Customers
+15481,0,65,461.53,Potential Loyal Customers
+15492,2,40,960.47,Potential Loyal Customers
+15499,24,13,156.77,Promising Customers
+15502,0,93,642.62,Loyal Customers
+15503,0,144,686.23,Loyal Customers
+15513,13,63,440.78,Potential Loyal Customers
+15527,0,57,561.05,Potential Loyal Customers
+15541,4,38,501.51,Potential Loyal Customers
+15544,0,94,666.1,Loyal Customers
+15554,0,64,749.58,Potential Loyal Customers
+15556,8,21,615.99,Potential Loyal Customers
+15568,0,45,401.61,Potential Loyal Customers
+15571,0,75,532.34,Loyal Customers
+15573,3,38,436.42,Potential Loyal Customers
+15588,21,25,503.07,Potential Loyal Customers
+15596,0,57,617.6,Potential Loyal Customers
+15601,62,39,376.16,Promising Customers
+15604,1,37,813.44,Potential Loyal Customers
+15605,25,16,297.12,Promising Customers
+15609,1,118,759.98,Loyal Customers
+15616,3,36,279.6,Potential Loyal Customers
+15617,60,78,282.17,Promising Customers
+15621,1,39,391.07,Potential Loyal Customers
+15622,0,29,513.47,Potential Loyal Customers
+15634,11,16,353.84,Potential Loyal Customers
+15651,3,21,663.26,Potential Loyal Customers
+15654,2,39,306.04,Potential Loyal Customers
+15664,2,29,335.79,Potential Loyal Customers
+15667,1,175,561.19,Loyal Customers
+15669,5,96,580.76,Loyal Customers
+15671,0,39,855.68,Potential Loyal Customers
+15682,0,17,165.11,Potential Loyal Customers
+15684,2,26,1450,Champions
+15685,12,90,598.1,Loyal Customers
+15690,7,33,331.36,Potential Loyal Customers
+15702,104,25,171.91,Need Attention
+15709,14,17,277.3,Potential Loyal Customers
+15717,3,81,1686.4,Champions
+15723,24,15,117.33,Promising Customers
+15728,11,24,309.3,Potential Loyal Customers
+15738,1,83,1890.08,Champions
+15743,0,35,440.79,Potential Loyal Customers
+15753,1,118,549.38,Loyal Customers
+15763,1,62,600.02,Potential Loyal Customers
+15768,2,43,275.82,Potential Loyal Customers
+15772,4,18,373.56,Potential Loyal Customers
+15773,2,21,216.46,Potential Loyal Customers
+15774,1,62,464.02,Potential Loyal Customers
+15778,1,45,625.36,Potential Loyal Customers
+15788,1,87,1415.32,Champions
+15793,3,28,268.69,Potential Loyal Customers
+15801,4,124,432.07,Loyal Customers
+15813,0,138,998.77,Loyal Customers
+15815,0,74,843.26,Loyal Customers
+15821,99,27,246.59,Need Attention
+15827,5,29,246.61,Potential Loyal Customers
+15831,4,51,331.85,Potential Loyal Customers
+15838,6,41,561.07,Potential Loyal Customers
+15839,16,25,162.49,Potential Loyal Customers
+15843,56,5,81.02,Promising Customers
+15850,1,14,220.82,Potential Loyal Customers
+15852,2,16,289.72,Potential Loyal Customers
+15864,7,34,815.48,Potential Loyal Customers
+15865,9,58,654.05,Potential Loyal Customers
+15875,0,53,474.5,Potential Loyal Customers
+15879,0,20,297.89,Potential Loyal Customers
+15902,0,95,680.62,Loyal Customers
+15911,3,33,415.41,Potential Loyal Customers
+15920,6,55,615.36,Potential Loyal Customers
+15932,0,27,445.09,Potential Loyal Customers
+15933,0,142,590.1,Loyal Customers
+15934,0,183,2649.05,At Risk
+15939,3,36,453.3,Potential Loyal Customers
+15942,0,42,512.56,Potential Loyal Customers
+15943,1,51,627.75,Potential Loyal Customers
+15945,3,38,572.29,Potential Loyal Customers
+15960,11,64,408.31,Potential Loyal Customers
+15963,4,115,859.01,Loyal Customers
+15966,3,55,450.86,Potential Loyal Customers
+15967,6,22,663.17,Potential Loyal Customers
+15970,2,88,1275.25,Champions
+15972,0,83,844.23,Loyal Customers
+15978,11,25,427.17,Potential Loyal Customers
+15980,0,62,607.1,Potential Loyal Customers
+16002,3,44,285.15,Potential Loyal Customers
+16012,44,30,196,Promising Customers
+16018,12,20,298.31,Potential Loyal Customers
+16022,1,115,2186.39,Champions
+16029,3,12,246.54,Potential Loyal Customers
+16031,123,15,150.63,Need Attention
+16038,2,35,324.99,Potential Loyal Customers
+16039,0,108,401.03,Loyal Customers
+16040,11,18,345.05,Potential Loyal Customers
+16041,1,83,475.08,Loyal Customers
+16043,1,165,1320.55,At Risk
+16048,30,21,322.62,Promising Customers
+16049,1,53,316.31,Potential Loyal Customers
+16054,32,73,687.61,Promising Customers
+16076,3,12,142.86,Potential Loyal Customers
+16081,0,51,222.26,Potential Loyal Customers
+16084,1,80,602.32,Loyal Customers
+16086,1,101,311.67,Loyal Customers
+16100,113,12,157.47,Need Attention
+16102,7,13,380.24,Potential Loyal Customers
+16106,3,37,156.1,Potential Loyal Customers
+16117,2,69,1359.55,Champions
+16125,13,59,321.25,Potential Loyal Customers
+16140,1,69,587.78,Potential Loyal Customers
+16144,0,62,564.43,Potential Loyal Customers
+16154,1,59,478.34,Potential Loyal Customers
+16163,1,36,308.27,Potential Loyal Customers
+16165,0,114,1068.25,Loyal Customers
+16167,2,57,327.22,Potential Loyal Customers
+16172,7,42,955.15,Potential Loyal Customers
+16173,9,52,292.63,Potential Loyal Customers
+16184,65,15,121.59,Promising Customers
+16193,2,56,574.98,Potential Loyal Customers
+16195,1,136,694.79,Loyal Customers
+16196,6,74,339.05,Potential Loyal Customers
+16203,0,79,2448.11,Champions
+16205,1,51,395.21,Potential Loyal Customers
+16220,1,36,518.01,Potential Loyal Customers
+16227,0,38,460.38,Potential Loyal Customers
+16229,19,20,211.82,Potential Loyal Customers
+16231,11,24,195.95,Potential Loyal Customers
+16234,3,48,224.19,Potential Loyal Customers
+16254,1,52,460.14,Potential Loyal Customers
+16281,0,59,668.36,Potential Loyal Customers
+16287,7,71,765.72,Loyal Customers
+16292,0,150,1398.4,At Risk
+16294,3,44,849.26,Potential Loyal Customers
+16295,0,54,679.7,Potential Loyal Customers
+16301,4,42,251.43,Potential Loyal Customers
+16303,11,56,354.32,Potential Loyal Customers
+16306,10,29,462.81,Potential Loyal Customers
+16316,0,17,330.4,Potential Loyal Customers
